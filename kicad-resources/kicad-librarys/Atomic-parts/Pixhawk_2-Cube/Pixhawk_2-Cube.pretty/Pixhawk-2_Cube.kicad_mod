@@ -1,4 +1,4 @@
-(module Pixhawk-2_Cube (layer F.Cu) (tedit 59807E82)
+(module Pixhawk-2_Cube (layer F.Cu) (tedit 5989C139)
   (descr https://github.com/PX4/Hardware)
   (tags "PX4, Pixhawk 2, Cube")
   (attr smd)
@@ -183,7 +183,7 @@
     (solder_mask_margin 1) (solder_paste_margin_ratio -0.00000001) (clearance 1))
   (pad "" np_thru_hole circle (at 15.2 -17.5 90) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask)
     (solder_mask_margin 1) (solder_paste_margin_ratio -0.00000001) (clearance 1))
-  (model /home/schwing/Kicad/kicad-resources/kipart-librarys/Pixhawk_2-Cube/Pixhawk_2-Cube.stp
+  (model ${KIATOMIC}/Pixhawk_2-Cube/Pixhawk_2-Cube.stp
     (at (xyz 0.007874015748031498 0.09842519685039371 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
