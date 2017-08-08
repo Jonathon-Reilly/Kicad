@@ -1,0 +1,12 @@
+LM3409,,,
+Pin,Name,Type,Side
+1,UVLO,bi,left
+2,IADJ,bi,left
+3,EN,bi,left
+4,COFF,bi,left
+5,GND,pwr,left
+6,PGATE,bi,right
+7,CSN,bi,right
+8,CSP,bi,right
+9,VCC,pwr,right
+10,VIN,pwr,right

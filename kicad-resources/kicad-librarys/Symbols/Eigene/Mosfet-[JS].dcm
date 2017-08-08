@@ -1,0 +1,75 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BSP100
+D NXP, BSP100,N channel MOSFET, GDS footprint
+K BSP100, N channel MOSFET,NXP
+F http://www.farnell.com/datasheets/158308.pdf
+$ENDCMP
+#
+$CMP BSZ036NE2LS
+D Infineon BSZ036NE2LS N channel 25V 40A MOSFET
+K POWER-TDFN, N channel,
+F http://www.infineon.com/dgdl/BSZ036NE2LS_Rev+2.1.pdf?folderId=db3a304313b8b5a60113cee8763b02d7&fileId=db3a30432ea425a4012ed92706043869
+$ENDCMP
+#
+$CMP BSZ060NE2LS
+D Infineon BSZ060NE2LS N channel 25V 40A MOSFET
+K POWER-TDFN, N channel,
+F http://www.infineon.com/dgdl/BSZ060NE2LS_Rev+2.1.pdf?folderId=db3a304313b8b5a60113cee8763b02d7&fileId=db3a30432ea425a4012ec927cb360e1f
+$ENDCMP
+#
+$CMP BSZ120P03NS3
+D BSZ120P03NS3 P channel 40V MOSFET
+K  8-PowerTDFN P channel
+F http://www.infineon.com/dgdl/BSZ120P03NS3+G_2+1.pdf?folderId=db3a304314dca38901154a7313d21a66&fileId=db3a304326dfb13001271f0c11864edd
+$ENDCMP
+#
+$CMP DMC3032LSD
+D N + P channel MOSFET, SO-8 footprint, N 8A1  P 7A
+K N + P channel, Mosfet, Separate Drain
+F http://www.diodes.com/_files/datasheets/ds32153.pdf
+$ENDCMP
+#
+$CMP DMP4047SSD
+D N + P channel MOSFET, SO-8 footprint, N 8A1  P 7A
+K N + P channel, Mosfet, Separate Drain
+F http://www.diodes.com/_files/datasheets/ds32153.pdf
+$ENDCMP
+#
+$CMP IPT004N03L
+D IPT004N03L N channel 30V 300A MOSFET
+K N channel, Infineon
+F http://www.infineon.com/dgdl/IPT004N03L_rev1.2.pdf?folderId=db3a304313b8b5a60113cee8763b02d7&fileId=db3a30433e9d5d11013e9e0f382600c2
+$ENDCMP
+#
+$CMP IRF7240PbF
+D IRF7240PbF P channel 40V MOSFET
+K so-8 P channel
+F http://www.irf.com/product-info/datasheets/data/irf7240pbf.pdf
+$ENDCMP
+#
+$CMP IRF7389
+D N + P channel MOSFET, SO-8 footprint, N 7A3  P 5A3
+K N + P channel, Mosfet, 
+F http://www.irf.com/product-info/datasheets/data/irf7389pbf.pdf
+$ENDCMP
+#
+$CMP Si4410DYPbF
+D Si4410DYPbF N channel 30V MOSFET
+K so-8 N channel
+F /http://www.irf.com/product-info/datasheets/data/si4410dypbf.pdf
+$ENDCMP
+#
+$CMP SiR158DP
+D SiR158DP N channel 30V 60A MOSFET
+K so-8 N channel
+F http://www.vishay.com/docs/64730/sir158dp.pdf
+$ENDCMP
+#
+$CMP TPN2R304PL
+D Toshiba TPN2R304PL N channel 40V 80A MOSFET
+K POWERVDFN, N channel,
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=30264&prodName=TPN2R304PL
+$ENDCMP
+#
+#End Doc Library

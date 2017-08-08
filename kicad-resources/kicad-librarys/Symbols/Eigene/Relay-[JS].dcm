@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DE1a-L
+D Relais, 10 A, 3V Spule
+K Relay, 10A, 3V coil
+F http://www.farnell.com/datasheets/1537830.pdf
+$ENDCMP
+#
+#End Doc Library

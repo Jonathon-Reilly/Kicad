@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BSC340N08NS3
+D 80V Vds, 23A Id, Rds 34m, PG-TDSON-8
+K N-Channel Transistor,
+F http://www.infineon.com/dgdl/BSC340N08NS3G_rev2.4.pdf?folderId=db3a304313b8b5a60113cee8763b02d7&fileId=db3a30431add1d95011ae81c21f2563a
+$ENDCMP
+#
+$CMP DMMT5401-7-F
+D PNP.2 -40V -200mA 200mW Matched [SOT-363]
+$ENDCMP
+#
+$CMP ULN2803A
+D Darlington Transistor Array
+K Transistor Array Darlington 500mA 50V
+F http://www.ti.com/lit/ds/symlink/uln2803a.pdf
+$ENDCMP
+#
+#End Doc Library

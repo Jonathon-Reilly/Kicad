@@ -1,0 +1,49 @@
+STEP nach Solid Edge übersetzen
+Datum: Freitag,Juli 03,2015 06 :06
+Quelldatei: Z:\09 Software\KiCad\Librarys\3D-Cad\Lumberg_2_5_MSF_04.stp
+Autor: '
+Organisation: '
+Ausgangssystem: Creo Elements/Direct Modeling 18.0B  02-Dec-2011 (C) Parametric Technology GmbH
+
+Hardware:
+Prozessor: Intel(R) Core(TM) i7 CPU         950  @ 3.07GHz
+Betriebssystem: Windows 7 Professional Service Pack 1
+Installierter Speicher: 5.99 GB
+
+Software-Informationen
+Parasolid-Version: 27.0.142
+PSBodyShop-Version: 27.0.100
+Übersetzerversion: 17.49.0
+Solid Edge-Version: 107.00.00.104 x64
+
+Step-Importoptionen
+Attributübertragung aktivieren: Ein
+Klasse II-Drahtelemente importieren: Ein
+Klasse III-Drahtelemente importieren: Ein
+Klasse IV-Flächen importieren: Ein
+Klasse VI-Volumenkörper importieren: Ein
+Vernähen aktivieren: Ein
+Klasse II-Flächen importieren und vernähen: Ein
+Klasse IV-Volumenkörper als getrimmte Flächen übersetzen und vernähen: Aus
+Boolesche Volumenkörper: Ein
+Basisformelement erstellen: Ein
+Geometrie vereinfachen: Ein
+Reparieren und vernähen aktiviert: Aus
+Interne Reparatur aktivieren: Ein
+Namen von Teilkomponenten exportieren als Unicode: Ein
+
+Phase 1 von 3 - Übersetzen zu Parasolid-Datentypen...
+Übersetzen zu Parasolid-Datentypen beendet
+Zum Übersetzen benötigte Zeit:00 : 00 : 00
+
+Phase 2 von 3 Geometrie vereinfachen...
+Vorgang zur Geometrievereinfachung ist abgeschlossen
+Zum Vereinfachen benötigte Zeit: 00 : 00 : 00
+Freie Flächen werden vernäht...
+
+Phase 3 von 3 - Erstellen von Parasolid-Entitäten...
+Gesamtzahl der Blätter: 0
+Gesamtzahl der Volumenkörper: 1
+Gesamtzahl der Drahtkörper: 0
+Übersetzungsvorgang ist abgeschlossen
+Zur Übersetzung und Nachbearbeitung erforderte Gesamtzeit:00 : 00 : 00

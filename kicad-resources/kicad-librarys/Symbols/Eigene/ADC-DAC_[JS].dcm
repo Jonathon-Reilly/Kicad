@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS1220
+D ADC, ADS1220,24bit,Texas Instruments
+K ADC, ADS1220,24bit,Texas Instruments
+F http://www.ti.com/lit/ds/symlink/ads1220.pdf
+$ENDCMP
+#
+$CMP LTC2450
+D ADC, 0-5V, LTC2450,Linear Technology
+K ADC, 0-5V, LTC2450
+F http://cds.linear.com/docs/en/datasheet/2450fb.pdf
+$ENDCMP
+#
+$CMP MCP3021
+D MCP3425A0T, Single Delta-Sigma 16bit Analog to Digital Converter, I2C Interface, SOT-23-6
+K Sigma-Delta ADC Converter 16bit I2C
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22072b.pdf
+$ENDCMP
+#
+#End Doc Library

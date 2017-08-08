@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAT24C32
+D 32Kb (4096x8) Serial EEPROM with Unique Serial Number
+K I2C Serial EEPROM Nonvolatile Memory
+F http://www.onsemi.com/pub_link/Collateral/CAT24C32-D.PDF
+$ENDCMP
+#
+#End Doc Library

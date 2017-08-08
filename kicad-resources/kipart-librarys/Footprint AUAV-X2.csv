@@ -1,0 +1,74 @@
+Pixhawk_AUAV-X2,,,,
+Pin,Name,Type,Unit,Side
+1,S1,pass,S1,left
+2,VS+,pass,S1,left
+3,GND,pass,S1,left
+4,S2,pass,S2,left
+5,VS+,pass,S2,left
+6,GND,pass,S2,left
+7,S3,pass,S3,left
+8,VS+,pass,S3,left
+9,GND,pass,S3,left
+10,S4,pass,S4,left
+11,VS+,pass,S4,left
+12,GND,pass,S4,left
+13,S5,pass,S5,left
+14,VS+,pass,S5,left
+15,GND,pass,S5,left
+16,S6,pass,S6,left
+17,VS+,pass,S6,left
+18,GND,pass,S6,left
+19,S7,pass,S7,left
+20,VS+,pass,S7,left
+21,GND,pass,S7,left
+22,S8,pass,S8,left
+23,VS+,pass,S8,left
+24,GND,pass,S8,left
+25,CURR,pass,5V_Brick,left
+26,VOLT,pass,5V_Brick,left
+27,5VBR,pass,5V_Brick,left
+28,GND,pass,5V_Brick,left
+29,U1Rx,pass,VCC SPEKTRUM,left
+30,GND,pass,VCC SPEKTRUM,left
+31,3V3+,pass,VCC SPEKTRUM,left
+32,3V3+,pass,SAFETY,left
+33,LEDs,pass,SAFETY,left
+34,SF,pass,SAFETY,left
+35,BUZ-,pass,BUZZER,left
+36,BUZ+,pass,BUZZER,left
+37,GND,pass,ADDITIONAL CHANNELS,left
+38,5V+,pass,ADDITIONAL CHANNELS,left
+39,AIR,pass,ADDITIONAL CHANNELS,left
+40,CH5,pass,ADDITIONAL CHANNELS,left
+41,CH4,pass,ADDITIONAL CHANNELS,left
+42,CH3,pass,ADDITIONAL CHANNELS,left
+43,CH2,pass,ADDITIONAL CHANNELS,left
+44,CH1,pass,ADDITIONAL CHANNELS,left
+45,5V+,pass,CAN INTERFACE,left
+46,CANL,pass,CAN INTERFACE,left
+47,CANH,pass,CAN INTERFACE,left
+48,GND,pass,CAN INTERFACE,left
+49,GND,pass,U7,left
+50,5V+,pass,U7,left
+51,U7Rx,pass,U7,left
+52,U7Tx,pass,U7,left
+53,GND,pass,ADC,left
+54,5V+,pass,ADC,left
+55,ADC1,pass,ADC,left
+56,ADC2,pass,ADC,left
+57,GND,pass,I2SDA,left
+58,5V+,pass,I2SDA,left
+59,I2SDA,pass,I2SDA,left
+60,I2SCL,pass,I2SDA,left
+61,GND,pass,U4,left
+62,5V+,pass,U4,left
+63,U4Rx,pass,U4,left
+64,U4Tx,pass,U4,left
+65,GND,pass,SBUS,left
+66,5V+,pass,SBUS,left
+67,SORI,pass,SBUS,left
+68,SIPI,pass,SBUS,left
+69,GND,pass,U3,left
+70,5V+,pass,U3,left
+71,U3Rx,pass,U3,left
+72,U3Tx,pass,U3,left

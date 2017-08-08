@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Mountpoint
+D Mountingpoint,
+K Mountingpoint, hole
+$ENDCMP
+#
+#End Doc Library

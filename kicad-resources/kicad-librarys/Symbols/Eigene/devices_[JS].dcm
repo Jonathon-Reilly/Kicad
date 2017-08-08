@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Snap-Switch
+D Snap-Switch
+K switch, 3-pos,snap
+$ENDCMP
+#
+#End Doc Library

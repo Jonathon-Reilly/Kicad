@@ -1,0 +1,2216 @@
+Info: Reading netlist file "/home/laudas/eagle/eagle-lbr2kicad/examples/PIXHAWK/kicad_files/PX4FMUv2.4.net".
+
+Info: Using references to match components and footprints.
+
+* Warning: component 'VP_38': board footprint 'VPAC2', netlist footprint 'VPAD_VPAC2'
+
+* Warning: component 'VP_36': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_47': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_46': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_45': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_44': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_20': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_21': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_22': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_40': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_39': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_37': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_48': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_23': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_24': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_25': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_26': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_27': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_28': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_29': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_32': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_31': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_30': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_49': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_4': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_5': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_6': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_7': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_8': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_9': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_10': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_11': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_12': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_13': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_14': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_15': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_16': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_17': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_18': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_19': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_50': board footprint 'VPAC1', netlist footprint 'VPAD_VPAC1'
+
+* Warning: component 'VP_1': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'VP_2': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'VP_0': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'VP_61': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'VP_3': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'VP_34': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'VP_60': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'VP_59': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'VP_58': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'VP_57': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'VP_56': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'VP_55': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'VP_54': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'VP_53': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'VP_52': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'VP_51': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'VP_43': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'VP_42': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'VP_41': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'VP_35': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'VP_33': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+
+* Warning: component 'Q601': board footprint 'SOT23-BEC', netlist footprint 'TRANSISTOR-PNP_SOT23-BEC'
+
+* Warning: component 'RN1101': board footprint 'EXB28V', netlist footprint 'RESISTOR-DIL_EXB28V'
+
+* Warning: component 'U903': board footprint 'TSSOP8_SOT505-2', netlist footprint 'PIXHAWK2_TSSOP8_SOT505-2'
+
+* Warning: component 'U801': board footprint 'TQFP48', netlist footprint 'PIXHAWK2_TQFP48'
+
+* Warning: component 'U101': board footprint 'TQFP100', netlist footprint 'PIXHAWK2_TQFP100'
+
+* Warning: component 'U302': board footprint 'SOT563-6', netlist footprint 'PIXHAWK2_SOT563-6'
+
+* Warning: component 'U401': board footprint 'SOT23-8', netlist footprint 'PIXHAWK2_SOT23-8'
+
+* Warning: component 'U702': board footprint 'SOT23-8', netlist footprint 'PIXHAWK2_SOT23-8'
+
+* Warning: component 'D1001': board footprint 'SOT23-3', netlist footprint 'PIXHAWK2_SOT23-3'
+
+* Warning: component 'U701': board footprint 'SON10', netlist footprint 'PIXHAWK2_SON10'
+
+* Warning: component 'D2': board footprint 'SOD323', netlist footprint 'PIXHAWK2_SOD323'
+
+* Warning: component 'U102': board footprint 'SO08', netlist footprint 'PIXHAWK2_SO08'
+
+* Warning: component 'U602': board footprint 'QFN8-DSG', netlist footprint 'PIXHAWK2_QFN8-DSG'
+
+* Warning: component 'U1001': board footprint 'QFN8-DSG', netlist footprint 'PIXHAWK2_QFN8-DSG'
+
+* Warning: component 'U601': board footprint 'QFN8-DSG', netlist footprint 'PIXHAWK2_QFN8-DSG'
+
+* Warning: component 'U201': board footprint 'QFN20-RGY', netlist footprint 'PIXHAWK2_QFN20-RGY'
+
+* Warning: component 'U901': board footprint 'QFN20-RGY', netlist footprint 'PIXHAWK2_QFN20-RGY'
+
+* Warning: component 'U902': board footprint 'QFN20-RGY', netlist footprint 'PIXHAWK2_QFN20-RGY'
+
+* Warning: component 'U202': board footprint 'QFN20-RGY', netlist footprint 'PIXHAWK2_QFN20-RGY'
+
+* Warning: component 'U505': board footprint 'QFN-24', netlist footprint 'PIXHAWK2_QFN-24'
+
+* Warning: component 'F1001': board footprint 'PTC-1206', netlist footprint 'PIXHAWK2_PTC-1206'
+
+* Warning: component 'VDD_5V_IN1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'VDDA_3V1101': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'VBUS1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'S5_RX1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'S5_TX1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'S4TX1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'VDD_3V1101': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'S4RX1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'S3TX1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'S3RX1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'S2TX1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'S2RX1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'S1TX1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'S1RX1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'IO-BOOT1101': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'GND1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'GND.1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'FMU-BOOT1101': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'CAN_L1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'CAN_H1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'ADC_PR1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component '!VDD_SERVO_VALID1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component '!VDD_BRICK_VALID1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component '!VBUS_VALID1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'VDD_5V_BRICK1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'VDD_SERVO1116': board footprint 'PAD.04X.04', netlist footprint 'PIXHAWK2_PAD.04X.04'
+
+* Warning: component 'OSHW_LOGO1116': board footprint 'OSHW-LOGO-S', netlist footprint 'PIXHAWK2_OSHW-LOGO-S'
+
+* Warning: component 'X101': board footprint 'OSCILLATOR-3.2X2.5', netlist footprint 'PIXHAWK2_OSCILLATOR-3.2X2.5'
+
+* Warning: component 'X801': board footprint 'OSCILLATOR-3.2X2.5', netlist footprint 'PIXHAWK2_OSCILLATOR-3.2X2.5'
+
+* Warning: component 'B601': board footprint 'MS621FE', netlist footprint 'PIXHAWK2_MS621FE'
+
+* Warning: component 'U506': board footprint 'MS5611-01BA', netlist footprint 'PIXHAWK2_MS5611-01BA'
+
+* Warning: component 'M3_MOUNT1103': board footprint 'MOUNT-HOLE3.1', netlist footprint 'PIXHAWK2_MOUNT-HOLE3.1'
+
+* Warning: component 'M3_MOUNT1101': board footprint 'MOUNT-HOLE3.1', netlist footprint 'PIXHAWK2_MOUNT-HOLE3.1'
+
+* Warning: component 'M3_MOUNT1102': board footprint 'MOUNT-HOLE3.1', netlist footprint 'PIXHAWK2_MOUNT-HOLE3.1'
+
+* Warning: component 'M3_MOUNT1104': board footprint 'MOUNT-HOLE3.1', netlist footprint 'PIXHAWK2_MOUNT-HOLE3.1'
+
+* Warning: component 'J301': board footprint 'MOLEX-47346-0001', netlist footprint 'PIXHAWK2_MOLEX-47346-0001'
+
+* Warning: component 'U1101': board footprint 'MO-220', netlist footprint 'PIXHAWK2_MO-220'
+
+* Warning: component 'U1002': board footprint 'MLF-8-EPAD', netlist footprint 'PIXHAWK2_MLF-8-EPAD'
+
+* Warning: component 'U603': board footprint 'MLF-8-EPAD', netlist footprint 'PIXHAWK2_MLF-8-EPAD'
+
+* Warning: component 'D1': board footprint 'MICROSMP', netlist footprint 'PIXHAWK2_MICROSMP'
+
+* Warning: component 'U504': board footprint 'LGA-16L', netlist footprint 'PIXHAWK2_LGA-16L'
+
+* Warning: component 'U502': board footprint 'LGA-16L', netlist footprint 'PIXHAWK2_LGA-16L'
+
+* Warning: component 'U501': board footprint 'L3G4200DH-MAN', netlist footprint 'PIXHAWK2_L3G4200DH-MAN'
+
+* Warning: component 'L201': board footprint 'KYOCERA-KNH16-DA', netlist footprint 'PIXHAWK2_KYOCERA-KNH16-DA'
+
+* Warning: component 'L402': board footprint 'KYOCERA-KNH16-DA', netlist footprint 'PIXHAWK2_KYOCERA-KNH16-DA'
+
+* Warning: component 'L403': board footprint 'KYOCERA-KNH16-DA', netlist footprint 'PIXHAWK2_KYOCERA-KNH16-DA'
+
+* Warning: component 'L404': board footprint 'KYOCERA-KNH16-DA', netlist footprint 'PIXHAWK2_KYOCERA-KNH16-DA'
+
+* Warning: component 'L401': board footprint 'KYOCERA-KNH16-DA', netlist footprint 'PIXHAWK2_KYOCERA-KNH16-DA'
+
+* Warning: component 'L203': board footprint 'KYOCERA-KNH16-DA', netlist footprint 'PIXHAWK2_KYOCERA-KNH16-DA'
+
+* Warning: component 'L1101': board footprint 'KYOCERA-KNH16-DA', netlist footprint 'PIXHAWK2_KYOCERA-KNH16-DA'
+
+* Warning: component 'L1102': board footprint 'KYOCERA-KNH16-DA', netlist footprint 'PIXHAWK2_KYOCERA-KNH16-DA'
+
+* Warning: component 'L603': board footprint 'KYOCERA-KNH16-DA', netlist footprint 'PIXHAWK2_KYOCERA-KNH16-DA'
+
+* Warning: component 'L901': board footprint 'KYOCERA-KNH16-DA', netlist footprint 'PIXHAWK2_KYOCERA-KNH16-DA'
+
+* Warning: component 'L202': board footprint 'KYOCERA-KNH16-DA', netlist footprint 'PIXHAWK2_KYOCERA-KNH16-DA'
+
+* Warning: component 'JX801': board footprint 'HEADER_3X01_SMD_H_BOARD_EDGE_SHORT', netlist footprint 'PIXHAWK2_HEADER_3X01_SMD_H_BOARD_EDGE_SHORT'
+
+* Warning: component 'JX802': board footprint 'FTSH-105-01-XXX-DV-K', netlist footprint 'PIXHAWK2_FTSH-105-01-XXX-DV-K'
+
+* Warning: component 'JX301': board footprint 'FTSH-105-01-XXX-DV-K', netlist footprint 'PIXHAWK2_FTSH-105-01-XXX-DV-K'
+
+* Warning: component 'JP2': board footprint 'FIDUCIAL-1.5X3', netlist footprint 'PIXHAWK2_FIDUCIAL-1.5X3'
+
+* Warning: component 'JP1': board footprint 'FIDUCIAL-1.5X3', netlist footprint 'PIXHAWK2_FIDUCIAL-1.5X3'
+
+* Warning: component 'S601': board footprint 'EVQP7J01K', netlist footprint 'PIXHAWK2_EVQP7J01K'
+
+* Warning: component 'S801': board footprint 'EVQP7J01K', netlist footprint 'PIXHAWK2_EVQP7J01K'
+
+* Warning: component 'U703': board footprint '6-PLCC', netlist footprint 'PIXHAWK2_6-PLCC'
+
+* Warning: component 'X503': board footprint '51281-1094', netlist footprint 'PIXHAWK2_51281-1094'
+
+* Warning: component 'J901': board footprint '3X16RA', netlist footprint 'PIXHAWK2_3X16RA'
+
+* Warning: component 'C618': board footprint '1206-CAP', netlist footprint 'PIXHAWK2_1206-CAP'
+
+* Warning: component 'C614': board footprint '1206-CAP', netlist footprint 'PIXHAWK2_1206-CAP'
+
+* Warning: component 'C1104': board footprint '1206-CAP', netlist footprint 'PIXHAWK2_1206-CAP'
+
+* Warning: component 'U1102': board footprint '1206-8', netlist footprint 'PIXHAWK2_1206-8'
+
+* Warning: component 'U1104': board footprint '1206-8', netlist footprint 'PIXHAWK2_1206-8'
+
+* Warning: component 'U1103': board footprint '1206-8', netlist footprint 'PIXHAWK2_1206-8'
+
+* Warning: component 'L701': board footprint '0805-IND', netlist footprint 'PIXHAWK2_0805-IND'
+
+* Warning: component 'C501': board footprint '0805-CAP', netlist footprint 'PIXHAWK2_0805-CAP'
+
+* Warning: component 'C511': board footprint '0805-CAP', netlist footprint 'PIXHAWK2_0805-CAP'
+
+* Warning: component 'C601': board footprint '0805-CAP', netlist footprint 'PIXHAWK2_0805-CAP'
+
+* Warning: component 'C509': board footprint '0805-CAP', netlist footprint 'PIXHAWK2_0805-CAP'
+
+* Warning: component 'C1103': board footprint '0805-CAP', netlist footprint 'PIXHAWK2_0805-CAP'
+
+* Warning: component 'C1102': board footprint '0805-CAP', netlist footprint 'PIXHAWK2_0805-CAP'
+
+* Warning: component 'C1101': board footprint '0805-CAP', netlist footprint 'PIXHAWK2_0805-CAP'
+
+* Warning: component 'C604': board footprint '0805-CAP', netlist footprint 'PIXHAWK2_0805-CAP'
+
+* Warning: component 'C605': board footprint '0805-CAP', netlist footprint 'PIXHAWK2_0805-CAP'
+
+* Warning: component 'C506': board footprint '0805-CAP', netlist footprint 'PIXHAWK2_0805-CAP'
+
+* Warning: component 'C1001': board footprint '0805-CAP', netlist footprint 'PIXHAWK2_0805-CAP'
+
+* Warning: component 'R621': board footprint '0603-RES', netlist footprint 'PIXHAWK2_0603-RES'
+
+* Warning: component 'LED702': board footprint '0603-LED', netlist footprint 'PIXHAWK2_0603-LED'
+
+* Warning: component 'LED705': board footprint '0603-LED', netlist footprint 'PIXHAWK2_0603-LED'
+
+* Warning: component 'LED704': board footprint '0603-LED', netlist footprint 'PIXHAWK2_0603-LED'
+
+* Warning: component 'LED703': board footprint '0603-LED', netlist footprint 'PIXHAWK2_0603-LED'
+
+* Warning: component 'LED701': board footprint '0603-LED', netlist footprint 'PIXHAWK2_0603-LED'
+
+* Warning: component 'C515': board footprint '0603-CAP', netlist footprint 'PIXHAWK2_0603-CAP'
+
+* Warning: component 'C512': board footprint '0603-CAP', netlist footprint 'PIXHAWK2_0603-CAP'
+
+* Warning: component 'C702': board footprint '0603-CAP', netlist footprint 'PIXHAWK2_0603-CAP'
+
+* Warning: component 'C513': board footprint '0603-CAP', netlist footprint 'PIXHAWK2_0603-CAP'
+
+* Warning: component 'C613': board footprint '0603-CAP', netlist footprint 'PIXHAWK2_0603-CAP'
+
+* Warning: component 'C603': board footprint '0603-CAP', netlist footprint 'PIXHAWK2_0603-CAP'
+
+* Warning: component 'C611': board footprint '0603-CAP', netlist footprint 'PIXHAWK2_0603-CAP'
+
+* Warning: component 'C1003': board footprint '0603-CAP', netlist footprint 'PIXHAWK2_0603-CAP'
+
+* Warning: component 'C1004': board footprint '0603-CAP', netlist footprint 'PIXHAWK2_0603-CAP'
+
+* Warning: component 'D201': board footprint '0402-TVS', netlist footprint 'PIXHAWK2_0402-TVS'
+
+* Warning: component 'D203': board footprint '0402-TVS', netlist footprint 'PIXHAWK2_0402-TVS'
+
+* Warning: component 'D903': board footprint '0402-TVS', netlist footprint 'PIXHAWK2_0402-TVS'
+
+* Warning: component 'D404': board footprint '0402-TVS', netlist footprint 'PIXHAWK2_0402-TVS'
+
+* Warning: component 'D902': board footprint '0402-TVS', netlist footprint 'PIXHAWK2_0402-TVS'
+
+* Warning: component 'D901': board footprint '0402-TVS', netlist footprint 'PIXHAWK2_0402-TVS'
+
+* Warning: component 'D202': board footprint '0402-TVS', netlist footprint 'PIXHAWK2_0402-TVS'
+
+* Warning: component 'D701': board footprint '0402-TVS', netlist footprint 'PIXHAWK2_0402-TVS'
+
+* Warning: component 'D403': board footprint '0402-TVS', netlist footprint 'PIXHAWK2_0402-TVS'
+
+* Warning: component 'D402': board footprint '0402-TVS', netlist footprint 'PIXHAWK2_0402-TVS'
+
+* Warning: component 'D401': board footprint '0402-TVS', netlist footprint 'PIXHAWK2_0402-TVS'
+
+* Warning: component 'D801': board footprint '0402-TVS', netlist footprint 'PIXHAWK2_0402-TVS'
+
+* Warning: component 'R1111': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R922': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R1115': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R1114': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R1113': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R1112': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R802': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R1001': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R1002': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R1101': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R1110': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R1109': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R1107': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R1106': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R1105': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R1104': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R1103': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R1102': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R609': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R402': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R403': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R404': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R405': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R406': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R407': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R408': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R409': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R602': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R603': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R604': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R608': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R401': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R610': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R611': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R615': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R616': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R617': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R620': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R635': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R3': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R4': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R701': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R702': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R703': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R211': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R101': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R102': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R201': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R202': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R203': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R204': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R205': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R206': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R207': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R208': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R209': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R210': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R918': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R212': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R213': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R214': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R215': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R216': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R301': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R302': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R303': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R304': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R305': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R306': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R307': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R907': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R914': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R913': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R912': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R801': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R911': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R910': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R909': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R908': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R705': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R906': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R905': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R904': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R903': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R902': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R803': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R804': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R901': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R915': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R708': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R709': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R704': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R919': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R917': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R710': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R711': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R712': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R707': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R706': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R713': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'R916': board footprint '0402-RES', netlist footprint 'PIXHAWK2_0402-RES'
+
+* Warning: component 'C402': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C401': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C1110': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C102': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C1109': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C1108': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C1107': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C1106': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C1105': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C103': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C201': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C1008': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C1005': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C202': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C1002': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C617': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C602': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C606': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C607': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C608': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C609': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C610': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C612': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C615': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C616': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C902': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C806': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C805': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C804': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C803': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C802': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C801': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C701': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C703': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C704': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C514': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C901': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C903': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C101': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C502': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C503': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C505': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C504': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C507': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C508': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'C510': board footprint '0402-CAP', netlist footprint 'PIXHAWK2_0402-CAP'
+
+* Warning: component 'J801': board footprint 'JST-ZH-SMT-VERTICAL', netlist footprint 'FOR-TRANSFERS_JST-ZH-SMT-VERTICAL'
+
+* Warning: component 'J403': board footprint 'DF13C-7P-1.25V', netlist footprint 'CON-HIROSE-DF13_DF13C-7P-1.25V'
+
+* Warning: component 'J204': board footprint 'DF13C-6P-1.25V', netlist footprint 'CON-HIROSE-DF13_DF13C-6P-1.25V'
+
+* Warning: component 'J203': board footprint 'DF13C-6P-1.25V', netlist footprint 'CON-HIROSE-DF13_DF13C-6P-1.25V'
+
+* Warning: component 'J202': board footprint 'DF13C-6P-1.25V', netlist footprint 'CON-HIROSE-DF13_DF13C-6P-1.25V'
+
+* Warning: component 'J201': board footprint 'DF13C-6P-1.25V', netlist footprint 'CON-HIROSE-DF13_DF13C-6P-1.25V'
+
+* Warning: component 'J601': board footprint 'DF13C-6P-1.25V', netlist footprint 'CON-HIROSE-DF13_DF13C-6P-1.25V'
+
+* Warning: component 'J404': board footprint 'DF13C-5P-1.25V', netlist footprint 'CON-HIROSE-DF13_DF13C-5P-1.25V'
+
+* Warning: component 'J401': board footprint 'DF13C-4P-1.25V', netlist footprint 'CON-HIROSE-DF13_DF13C-4P-1.25V'
+
+* Warning: component 'J302': board footprint 'DF13C-4P-1.25V', netlist footprint 'CON-HIROSE-DF13_DF13C-4P-1.25V'
+
+* Warning: component 'J405': board footprint 'DF13C-4P-1.25V', netlist footprint 'CON-HIROSE-DF13_DF13C-4P-1.25V'
+
+* Warning: component 'J702': board footprint 'DF13C-3P-1.25V', netlist footprint 'CON-HIROSE-DF13_DF13C-3P-1.25V'
+
+* Warning: component 'J402': board footprint 'DF13C-3P-1.25V', netlist footprint 'CON-HIROSE-DF13_DF13C-3P-1.25V'
+
+* Warning: component 'J701': board footprint 'DF13C-2P-1.25V', netlist footprint 'CON-HIROSE-DF13_DF13C-2P-1.25V'
+
+* Warning: component 'U301': board footprint 'MICROSD', netlist footprint 'BASEBOARD_MICROSD'
+
+Info: Checking netlist component footprint "!VBUS_VALID1116:/55E9991E/55EAB5B7:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "!VBUS_VALID1116:" to "/55E9991E/55EAB5B7".
+
+Info: Checking netlist component footprint "!VDD_BRICK_VALID1116:/55E9991E/55EAB67F:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "!VDD_BRICK_VALID1116:" to "/55E9991E/55EAB67F".
+
+Info: Checking netlist component footprint "!VDD_SERVO_VALID1116:/55E9991E/55EAB747:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "!VDD_SERVO_VALID1116:" to "/55E9991E/55EAB747".
+
+Info: Checking netlist component footprint "ADC_PR1116:/55E9991E/55EAB80F:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "ADC_PR1116:" to "/55E9991E/55EAB80F".
+
+Info: Checking netlist component footprint "B601:/55E99912/55EA00DA:PIXHAWK2_MS621FE".
+
+Info: Changing component path "B601:" to "/55E99912/55EA00DA".
+
+Info: Checking netlist component footprint "C101:/55E99908/55E999B9:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C101:" to "/55E99908/55E999B9".
+
+Info: Checking netlist component footprint "C102:/55E99908/55E99A81:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C102:" to "/55E99908/55E99A81".
+
+Info: Checking netlist component footprint "C103:/55E99908/55E99B49:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C103:" to "/55E99908/55E99B49".
+
+Info: Checking netlist component footprint "C201:/55E9990A/55E9A639:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C201:" to "/55E9990A/55E9A639".
+
+Info: Checking netlist component footprint "C202:/55E9990A/55E9A701:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C202:" to "/55E9990A/55E9A701".
+
+Info: Checking netlist component footprint "C401:/55E9990E/55E9CED9:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C401:" to "/55E9990E/55E9CED9".
+
+Info: Checking netlist component footprint "C402:/55E9990E/55E9CFA1:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C402:" to "/55E9990E/55E9CFA1".
+
+Info: Checking netlist component footprint "C501:/55E99910/55E9E581:PIXHAWK2_0805-CAP".
+
+Info: Changing component path "C501:" to "/55E99910/55E9E581".
+
+Info: Checking netlist component footprint "C502:/55E99910/55E9E649:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C502:" to "/55E99910/55E9E649".
+
+Info: Checking netlist component footprint "C503:/55E99910/55E9E711:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C503:" to "/55E99910/55E9E711".
+
+Info: Checking netlist component footprint "C504:/55E99910/55E9E7D9:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C504:" to "/55E99910/55E9E7D9".
+
+Info: Checking netlist component footprint "C505:/55E99910/55E9E8A1:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C505:" to "/55E99910/55E9E8A1".
+
+Info: Checking netlist component footprint "C506:/55E99910/55E9E969:PIXHAWK2_0805-CAP".
+
+Info: Changing component path "C506:" to "/55E99910/55E9E969".
+
+Info: Checking netlist component footprint "C507:/55E99910/55E9EA31:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C507:" to "/55E99910/55E9EA31".
+
+Info: Checking netlist component footprint "C508:/55E99910/55E9EAF9:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C508:" to "/55E99910/55E9EAF9".
+
+Info: Checking netlist component footprint "C509:/55E99910/55E9EBC1:PIXHAWK2_0805-CAP".
+
+Info: Changing component path "C509:" to "/55E99910/55E9EBC1".
+
+Info: Checking netlist component footprint "C510:/55E99910/55E9EC89:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C510:" to "/55E99910/55E9EC89".
+
+Info: Checking netlist component footprint "C511:/55E99910/55E9ED51:PIXHAWK2_0805-CAP".
+
+Info: Changing component path "C511:" to "/55E99910/55E9ED51".
+
+Info: Checking netlist component footprint "C512:/55E99910/55E9EE19:PIXHAWK2_0603-CAP".
+
+Info: Changing component path "C512:" to "/55E99910/55E9EE19".
+
+Info: Checking netlist component footprint "C513:/55E99910/55E9EEE1:PIXHAWK2_0603-CAP".
+
+Info: Changing component path "C513:" to "/55E99910/55E9EEE1".
+
+Info: Checking netlist component footprint "C514:/55E99910/55E9EFA9:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C514:" to "/55E99910/55E9EFA9".
+
+Info: Checking netlist component footprint "C515:/55E99910/55E9F071:PIXHAWK2_0603-CAP".
+
+Info: Changing component path "C515:" to "/55E99910/55E9F071".
+
+Info: Checking netlist component footprint "C601:/55E99912/55EA01A2:PIXHAWK2_0805-CAP".
+
+Info: Changing component path "C601:" to "/55E99912/55EA01A2".
+
+Info: Checking netlist component footprint "C602:/55E99912/55EA026A:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C602:" to "/55E99912/55EA026A".
+
+Info: Checking netlist component footprint "C603:/55E99912/55EA0332:PIXHAWK2_0603-CAP".
+
+Info: Changing component path "C603:" to "/55E99912/55EA0332".
+
+Info: Checking netlist component footprint "C604:/55E99912/55EA03FA:PIXHAWK2_0805-CAP".
+
+Info: Changing component path "C604:" to "/55E99912/55EA03FA".
+
+Info: Checking netlist component footprint "C605:/55E99912/55EA04C2:PIXHAWK2_0805-CAP".
+
+Info: Changing component path "C605:" to "/55E99912/55EA04C2".
+
+Info: Checking netlist component footprint "C606:/55E99912/55EA058A:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C606:" to "/55E99912/55EA058A".
+
+Info: Checking netlist component footprint "C607:/55E99912/55EA0652:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C607:" to "/55E99912/55EA0652".
+
+Info: Checking netlist component footprint "C608:/55E99912/55EA071A:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C608:" to "/55E99912/55EA071A".
+
+Info: Checking netlist component footprint "C609:/55E99912/55EA07E2:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C609:" to "/55E99912/55EA07E2".
+
+Info: Checking netlist component footprint "C610:/55E99912/55EA08AA:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C610:" to "/55E99912/55EA08AA".
+
+Info: Checking netlist component footprint "C611:/55E99912/55EA0972:PIXHAWK2_0603-CAP".
+
+Info: Changing component path "C611:" to "/55E99912/55EA0972".
+
+Info: Checking netlist component footprint "C612:/55E99912/55EA0A3A:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C612:" to "/55E99912/55EA0A3A".
+
+Info: Checking netlist component footprint "C613:/55E99912/55EA0B02:PIXHAWK2_0603-CAP".
+
+Info: Changing component path "C613:" to "/55E99912/55EA0B02".
+
+Info: Checking netlist component footprint "C614:/55E99912/55EA0BCA:PIXHAWK2_1206-CAP".
+
+Info: Changing component path "C614:" to "/55E99912/55EA0BCA".
+
+Info: Checking netlist component footprint "C615:/55E99912/55EA0C92:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C615:" to "/55E99912/55EA0C92".
+
+Info: Checking netlist component footprint "C616:/55E99912/55EA0D5A:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C616:" to "/55E99912/55EA0D5A".
+
+Info: Checking netlist component footprint "C617:/55E99912/55EA0E22:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C617:" to "/55E99912/55EA0E22".
+
+Info: Checking netlist component footprint "C618:/55E99912/55EA0EEA:PIXHAWK2_1206-CAP".
+
+Info: Changing component path "C618:" to "/55E99912/55EA0EEA".
+
+Info: Checking netlist component footprint "C701:/55E99914/55EA2BD2:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C701:" to "/55E99914/55EA2BD2".
+
+Info: Checking netlist component footprint "C702:/55E99914/55EA2C9A:PIXHAWK2_0603-CAP".
+
+Info: Changing component path "C702:" to "/55E99914/55EA2C9A".
+
+Info: Checking netlist component footprint "C703:/55E99914/55EA2D62:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C703:" to "/55E99914/55EA2D62".
+
+Info: Checking netlist component footprint "C704:/55E99914/55EA2E2A:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C704:" to "/55E99914/55EA2E2A".
+
+Info: Checking netlist component footprint "C801:/55E99916/55EA49E6:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C801:" to "/55E99916/55EA49E6".
+
+Info: Checking netlist component footprint "C802:/55E99916/55EA4AAE:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C802:" to "/55E99916/55EA4AAE".
+
+Info: Checking netlist component footprint "C803:/55E99916/55EA4B76:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C803:" to "/55E99916/55EA4B76".
+
+Info: Checking netlist component footprint "C804:/55E99916/55EA4C3E:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C804:" to "/55E99916/55EA4C3E".
+
+Info: Checking netlist component footprint "C805:/55E99916/55EA4D06:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C805:" to "/55E99916/55EA4D06".
+
+Info: Checking netlist component footprint "C806:/55E99916/55EA4DCE:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C806:" to "/55E99916/55EA4DCE".
+
+Info: Checking netlist component footprint "C901:/55E99918/55EA6412:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C901:" to "/55E99918/55EA6412".
+
+Info: Checking netlist component footprint "C902:/55E99918/55EA64DA:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C902:" to "/55E99918/55EA64DA".
+
+Info: Checking netlist component footprint "C903:/55E99918/55EA65A2:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C903:" to "/55E99918/55EA65A2".
+
+Info: Checking netlist component footprint "C1001:/55E9991A/55EA879E:PIXHAWK2_0805-CAP".
+
+Info: Changing component path "C1001:" to "/55E9991A/55EA879E".
+
+Info: Checking netlist component footprint "C1002:/55E9991A/55EA8866:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C1002:" to "/55E9991A/55EA8866".
+
+Info: Checking netlist component footprint "C1003:/55E9991A/55EA892E:PIXHAWK2_0603-CAP".
+
+Info: Changing component path "C1003:" to "/55E9991A/55EA892E".
+
+Info: Checking netlist component footprint "C1004:/55E9991A/55EA89F6:PIXHAWK2_0603-CAP".
+
+Info: Changing component path "C1004:" to "/55E9991A/55EA89F6".
+
+Info: Checking netlist component footprint "C1005:/55E9991A/55EA8ABE:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C1005:" to "/55E9991A/55EA8ABE".
+
+Info: Checking netlist component footprint "C1008:/55E9991A/55EA8B86:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C1008:" to "/55E9991A/55EA8B86".
+
+Info: Checking netlist component footprint "C1101:/55E9991C/55EA95AF:PIXHAWK2_0805-CAP".
+
+Info: Changing component path "C1101:" to "/55E9991C/55EA95AF".
+
+Info: Checking netlist component footprint "C1102:/55E9991C/55EA9677:PIXHAWK2_0805-CAP".
+
+Info: Changing component path "C1102:" to "/55E9991C/55EA9677".
+
+Info: Checking netlist component footprint "C1103:/55E9991C/55EA973F:PIXHAWK2_0805-CAP".
+
+Info: Changing component path "C1103:" to "/55E9991C/55EA973F".
+
+Info: Checking netlist component footprint "C1104:/55E9991C/55EA9807:PIXHAWK2_1206-CAP".
+
+Info: Changing component path "C1104:" to "/55E9991C/55EA9807".
+
+Info: Checking netlist component footprint "C1105:/55E9991C/55EA98CF:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C1105:" to "/55E9991C/55EA98CF".
+
+Info: Checking netlist component footprint "C1106:/55E9991C/55EA9997:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C1106:" to "/55E9991C/55EA9997".
+
+Info: Checking netlist component footprint "C1107:/55E9991C/55EA9A5F:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C1107:" to "/55E9991C/55EA9A5F".
+
+Info: Checking netlist component footprint "C1108:/55E9991C/55EA9B27:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C1108:" to "/55E9991C/55EA9B27".
+
+Info: Checking netlist component footprint "C1109:/55E9991C/55EA9BEF:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C1109:" to "/55E9991C/55EA9BEF".
+
+Info: Checking netlist component footprint "C1110:/55E9991C/55EA9CB7:PIXHAWK2_0402-CAP".
+
+Info: Changing component path "C1110:" to "/55E9991C/55EA9CB7".
+
+Info: Checking netlist component footprint "CAN_H1116:/55E9991E/55EAB8D7:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "CAN_H1116:" to "/55E9991E/55EAB8D7".
+
+Info: Checking netlist component footprint "CAN_L1116:/55E9991E/55EAB99F:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "CAN_L1116:" to "/55E9991E/55EAB99F".
+
+Info: Checking netlist component footprint "D1:/55E99918/55EA666A:PIXHAWK2_MICROSMP".
+
+Info: Changing component path "D1:" to "/55E99918/55EA666A".
+
+Changing component "D1:/55E99918/55EA666A" pin "CATH" net name from "" to "N$110".
+
+Changing component "D1:/55E99918/55EA666A" pin "ANOD" net name from "" to "VDD_SERVO".
+
+Info: Checking netlist component footprint "D2:/55E99912/55EA0FB2:PIXHAWK2_SOD323".
+
+Info: Changing component path "D2:" to "/55E99912/55EA0FB2".
+
+Info: Checking netlist component footprint "D201:/55E9990A/55E9A7C9:PIXHAWK2_0402-TVS".
+
+Info: Changing component path "D201:" to "/55E9990A/55E9A7C9".
+
+Info: Checking netlist component footprint "D202:/55E9990A/55E9A891:PIXHAWK2_0402-TVS".
+
+Info: Changing component path "D202:" to "/55E9990A/55E9A891".
+
+Info: Checking netlist component footprint "D203:/55E9990A/55E9A959:PIXHAWK2_0402-TVS".
+
+Info: Changing component path "D203:" to "/55E9990A/55E9A959".
+
+Info: Checking netlist component footprint "D401:/55E9990E/55E9D069:PIXHAWK2_0402-TVS".
+
+Info: Changing component path "D401:" to "/55E9990E/55E9D069".
+
+Info: Checking netlist component footprint "D402:/55E9990E/55E9D131:PIXHAWK2_0402-TVS".
+
+Info: Changing component path "D402:" to "/55E9990E/55E9D131".
+
+Info: Checking netlist component footprint "D403:/55E9990E/55E9D1F9:PIXHAWK2_0402-TVS".
+
+Info: Changing component path "D403:" to "/55E9990E/55E9D1F9".
+
+Info: Checking netlist component footprint "D404:/55E9990E/55E9D2C1:PIXHAWK2_0402-TVS".
+
+Info: Changing component path "D404:" to "/55E9990E/55E9D2C1".
+
+Info: Checking netlist component footprint "D701:/55E99914/55EA2EF2:PIXHAWK2_0402-TVS".
+
+Info: Changing component path "D701:" to "/55E99914/55EA2EF2".
+
+Info: Checking netlist component footprint "D801:/55E99916/55EA4E96:PIXHAWK2_0402-TVS".
+
+Info: Changing component path "D801:" to "/55E99916/55EA4E96".
+
+Info: Checking netlist component footprint "D901:/55E99918/55EA6732:PIXHAWK2_0402-TVS".
+
+Info: Changing component path "D901:" to "/55E99918/55EA6732".
+
+Info: Checking netlist component footprint "D902:/55E99918/55EA67FA:PIXHAWK2_0402-TVS".
+
+Info: Changing component path "D902:" to "/55E99918/55EA67FA".
+
+Info: Checking netlist component footprint "D903:/55E99918/55EA68C2:PIXHAWK2_0402-TVS".
+
+Info: Changing component path "D903:" to "/55E99918/55EA68C2".
+
+Info: Checking netlist component footprint "D1001:/55E9991A/55EA8C4E:PIXHAWK2_SOT23-3".
+
+Info: Changing component path "D1001:" to "/55E9991A/55EA8C4E".
+
+Info: Checking netlist component footprint "F1001:/55E9991A/55EA8D16:PIXHAWK2_PTC-1206".
+
+Info: Changing component path "F1001:" to "/55E9991A/55EA8D16".
+
+Info: Checking netlist component footprint "FMU-BOOT1101:/55E9991E/55EABACB:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "FMU-BOOT1101:" to "/55E9991E/55EABACB".
+
+Info: Checking netlist component footprint "GND.1116:/55E9991E/55EABB93:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "GND.1116:" to "/55E9991E/55EABB93".
+
+Info: Checking netlist component footprint "GND1116:/55E9991E/55EABC5B:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "GND1116:" to "/55E9991E/55EABC5B".
+
+Info: Checking netlist component footprint "IO-BOOT1101:/55E9991E/55EABD23:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "IO-BOOT1101:" to "/55E9991E/55EABD23".
+
+Info: Checking netlist component footprint "J201:/55E9990A/55E9AC79:CON-HIROSE-DF13_DF13C-6P-1.25V".
+
+Info: Changing component path "J201:" to "/55E9990A/55E9AC79".
+
+Info: Checking netlist component footprint "J202:/55E9990A/55E9AD41:CON-HIROSE-DF13_DF13C-6P-1.25V".
+
+Info: Changing component path "J202:" to "/55E9990A/55E9AD41".
+
+Info: Checking netlist component footprint "J203:/55E9990A/55E9AE09:CON-HIROSE-DF13_DF13C-6P-1.25V".
+
+Info: Changing component path "J203:" to "/55E9990A/55E9AE09".
+
+Info: Checking netlist component footprint "J204:/55E9990A/55E9AED1:CON-HIROSE-DF13_DF13C-6P-1.25V".
+
+Info: Changing component path "J204:" to "/55E9990A/55E9AED1".
+
+Info: Checking netlist component footprint "J301:/55E9990C/55E9C1F5:PIXHAWK2_MOLEX-47346-0001".
+
+Info: Changing component path "J301:" to "/55E9990C/55E9C1F5".
+
+Changing component "J301:/55E9990C/55E9C1F5" pin "ID" net name from "" to "Net-(J301-PadID)".
+
+Info: Checking netlist component footprint "J302:/55E9990C/55E9C2BD:CON-HIROSE-DF13_DF13C-4P-1.25V".
+
+Info: Changing component path "J302:" to "/55E9990C/55E9C2BD".
+
+Info: Checking netlist component footprint "J401:/55E9990E/55E9D645:CON-HIROSE-DF13_DF13C-4P-1.25V".
+
+Info: Changing component path "J401:" to "/55E9990E/55E9D645".
+
+Info: Checking netlist component footprint "J402:/55E9990E/55E9D70D:CON-HIROSE-DF13_DF13C-3P-1.25V".
+
+Info: Changing component path "J402:" to "/55E9990E/55E9D70D".
+
+Info: Checking netlist component footprint "J403:/55E9990E/55E9D7D5:CON-HIROSE-DF13_DF13C-7P-1.25V".
+
+Info: Changing component path "J403:" to "/55E9990E/55E9D7D5".
+
+Info: Checking netlist component footprint "J404:/55E9990E/55E9D89D:CON-HIROSE-DF13_DF13C-5P-1.25V".
+
+Info: Changing component path "J404:" to "/55E9990E/55E9D89D".
+
+Info: Checking netlist component footprint "J405:/55E9990E/55E9D965:CON-HIROSE-DF13_DF13C-4P-1.25V".
+
+Info: Changing component path "J405:" to "/55E9990E/55E9D965".
+
+Info: Checking netlist component footprint "J601:/55E9991C/55EAA22F:CON-HIROSE-DF13_DF13C-6P-1.25V".
+
+Info: Changing component path "J601:" to "/55E9991C/55EAA22F".
+
+Info: Checking netlist component footprint "J701:/55E99914/55EA346A:CON-HIROSE-DF13_DF13C-2P-1.25V".
+
+Info: Changing component path "J701:" to "/55E99914/55EA346A".
+
+Info: Checking netlist component footprint "J702:/55E99914/55EA3532:CON-HIROSE-DF13_DF13C-3P-1.25V".
+
+Info: Changing component path "J702:" to "/55E99914/55EA3532".
+
+Info: Checking netlist component footprint "J801:/55E99916/55EA559E:FOR-TRANSFERS_JST-ZH-SMT-VERTICAL".
+
+Info: Changing component path "J801:" to "/55E99916/55EA559E".
+
+Info: Checking netlist component footprint "J901:/55E99918/55EA6CAA:PIXHAWK2_3X16RA".
+
+Changing component "J901:" value from "" to "~".
+
+Info: Changing component path "J901:" to "/55E99918/55EA6CAA".
+
+Info: Checking netlist component footprint "JP1:/55E9991E/55EABDEB:PIXHAWK2_FIDUCIAL-1.5X3".
+
+Info: Changing component path "JP1:" to "/55E9991E/55EABDEB".
+
+Info: Checking netlist component footprint "JP2:/55E9991E/55EABEB3:PIXHAWK2_FIDUCIAL-1.5X3".
+
+Info: Changing component path "JP2:" to "/55E9991E/55EABEB3".
+
+Info: Checking netlist component footprint "JX301:/55E9990C/55E9C385:PIXHAWK2_FTSH-105-01-XXX-DV-K".
+
+Info: Changing component path "JX301:" to "/55E9990C/55E9C385".
+
+Changing component "JX301:/55E9990C/55E9C385" pin "8" net name from "" to "Net-(JX301-Pad8)".
+
+Changing component "JX301:/55E9990C/55E9C385" pin "10" net name from "" to "Net-(JX301-Pad10)".
+
+Info: Checking netlist component footprint "JX801:/55E99916/55EA5666:PIXHAWK2_HEADER_3X01_SMD_H_BOARD_EDGE_SHORT".
+
+Info: Changing component path "JX801:" to "/55E99916/55EA5666".
+
+Info: Checking netlist component footprint "JX802:/55E99916/55EA572E:PIXHAWK2_FTSH-105-01-XXX-DV-K".
+
+Info: Changing component path "JX802:" to "/55E99916/55EA572E".
+
+Changing component "JX802:/55E99916/55EA572E" pin "8" net name from "" to "Net-(JX802-Pad8)".
+
+Changing component "JX802:/55E99916/55EA572E" pin "10" net name from "" to "Net-(JX802-Pad10)".
+
+Info: Checking netlist component footprint "L201:/55E9990A/55E9AF99:PIXHAWK2_KYOCERA-KNH16-DA".
+
+Info: Changing component path "L201:" to "/55E9990A/55E9AF99".
+
+Info: Checking netlist component footprint "L202:/55E9990A/55E9B061:PIXHAWK2_KYOCERA-KNH16-DA".
+
+Info: Changing component path "L202:" to "/55E9990A/55E9B061".
+
+Info: Checking netlist component footprint "L203:/55E9990A/55E9B129:PIXHAWK2_KYOCERA-KNH16-DA".
+
+Info: Changing component path "L203:" to "/55E9990A/55E9B129".
+
+Info: Checking netlist component footprint "L401:/55E9990E/55E9DA2D:PIXHAWK2_KYOCERA-KNH16-DA".
+
+Info: Changing component path "L401:" to "/55E9990E/55E9DA2D".
+
+Info: Checking netlist component footprint "L402:/55E9990E/55E9DAF5:PIXHAWK2_KYOCERA-KNH16-DA".
+
+Info: Changing component path "L402:" to "/55E9990E/55E9DAF5".
+
+Info: Checking netlist component footprint "L403:/55E9990E/55E9DBBD:PIXHAWK2_KYOCERA-KNH16-DA".
+
+Info: Changing component path "L403:" to "/55E9990E/55E9DBBD".
+
+Info: Checking netlist component footprint "L404:/55E9990E/55E9DC85:PIXHAWK2_KYOCERA-KNH16-DA".
+
+Info: Changing component path "L404:" to "/55E9990E/55E9DC85".
+
+Info: Checking netlist component footprint "L603:/55E99912/55EA1B06:PIXHAWK2_KYOCERA-KNH16-DA".
+
+Info: Changing component path "L603:" to "/55E99912/55EA1B06".
+
+Info: Checking netlist component footprint "L701:/55E99914/55EA35FA:PIXHAWK2_0805-IND".
+
+Info: Changing component path "L701:" to "/55E99914/55EA35FA".
+
+Info: Checking netlist component footprint "L901:/55E99918/55EA747A:PIXHAWK2_KYOCERA-KNH16-DA".
+
+Info: Changing component path "L901:" to "/55E99918/55EA747A".
+
+Info: Checking netlist component footprint "L1101:/55E9991C/55EAA2F7:PIXHAWK2_KYOCERA-KNH16-DA".
+
+Info: Changing component path "L1101:" to "/55E9991C/55EAA2F7".
+
+Info: Checking netlist component footprint "L1102:/55E9991C/55EAA3BF:PIXHAWK2_KYOCERA-KNH16-DA".
+
+Info: Changing component path "L1102:" to "/55E9991C/55EAA3BF".
+
+Info: Checking netlist component footprint "LED701:/55E99914/55EA36C2:PIXHAWK2_0603-LED".
+
+Info: Changing component path "LED701:" to "/55E99914/55EA36C2".
+
+Info: Checking netlist component footprint "LED702:/55E99914/55EA378A:PIXHAWK2_0603-LED".
+
+Info: Changing component path "LED702:" to "/55E99914/55EA378A".
+
+Info: Checking netlist component footprint "LED703:/55E99914/55EA3852:PIXHAWK2_0603-LED".
+
+Info: Changing component path "LED703:" to "/55E99914/55EA3852".
+
+Info: Checking netlist component footprint "LED704:/55E99914/55EA391A:PIXHAWK2_0603-LED".
+
+Info: Changing component path "LED704:" to "/55E99914/55EA391A".
+
+Info: Checking netlist component footprint "LED705:/55E99914/55EA39E2:PIXHAWK2_0603-LED".
+
+Info: Changing component path "LED705:" to "/55E99914/55EA39E2".
+
+Info: Checking netlist component footprint "M3_MOUNT1101:/55E9991E/55EABF7B:PIXHAWK2_MOUNT-HOLE3.1".
+
+Info: Changing component path "M3_MOUNT1101:" to "/55E9991E/55EABF7B".
+
+Info: Checking netlist component footprint "M3_MOUNT1102:/55E9991E/55EAC043:PIXHAWK2_MOUNT-HOLE3.1".
+
+Info: Changing component path "M3_MOUNT1102:" to "/55E9991E/55EAC043".
+
+Info: Checking netlist component footprint "M3_MOUNT1103:/55E9991E/55EAC10B:PIXHAWK2_MOUNT-HOLE3.1".
+
+Info: Changing component path "M3_MOUNT1103:" to "/55E9991E/55EAC10B".
+
+Info: Checking netlist component footprint "M3_MOUNT1104:/55E9991E/55EAC1D3:PIXHAWK2_MOUNT-HOLE3.1".
+
+Info: Changing component path "M3_MOUNT1104:" to "/55E9991E/55EAC1D3".
+
+Info: Checking netlist component footprint "OSHW_LOGO1116:/55E9991E/55EAC29B:PIXHAWK2_OSHW-LOGO-S".
+
+Info: Changing component path "OSHW_LOGO1116:" to "/55E9991E/55EAC29B".
+
+Info: Checking netlist component footprint "Q601:/55E99912/55EA1BCE:TRANSISTOR-PNP_SOT23-BEC".
+
+Info: Changing component path "Q601:" to "/55E99912/55EA1BCE".
+
+Info: Checking netlist component footprint "R3:/55E99914/55EA3AAA:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R3:" to "/55E99914/55EA3AAA".
+
+Info: Checking netlist component footprint "R4:/55E99914/55EA3B72:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R4:" to "/55E99914/55EA3B72".
+
+Info: Checking netlist component footprint "R101:/55E99908/55E99E05:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R101:" to "/55E99908/55E99E05".
+
+Info: Checking netlist component footprint "R102:/55E99908/55E99ECD:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R102:" to "/55E99908/55E99ECD".
+
+Info: Checking netlist component footprint "R201:/55E9990A/55E9B1F1:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R201:" to "/55E9990A/55E9B1F1".
+
+Info: Checking netlist component footprint "R202:/55E9990A/55E9B2B9:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R202:" to "/55E9990A/55E9B2B9".
+
+Info: Checking netlist component footprint "R203:/55E9990A/55E9B381:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R203:" to "/55E9990A/55E9B381".
+
+Info: Checking netlist component footprint "R204:/55E9990A/55E9B449:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R204:" to "/55E9990A/55E9B449".
+
+Info: Checking netlist component footprint "R205:/55E9990A/55E9B511:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R205:" to "/55E9990A/55E9B511".
+
+Info: Checking netlist component footprint "R206:/55E9990A/55E9B5D9:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R206:" to "/55E9990A/55E9B5D9".
+
+Info: Checking netlist component footprint "R207:/55E9990A/55E9B6A1:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R207:" to "/55E9990A/55E9B6A1".
+
+Info: Checking netlist component footprint "R208:/55E9990A/55E9B769:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R208:" to "/55E9990A/55E9B769".
+
+Info: Checking netlist component footprint "R209:/55E9990A/55E9B831:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R209:" to "/55E9990A/55E9B831".
+
+Info: Checking netlist component footprint "R210:/55E9990A/55E9B8F9:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R210:" to "/55E9990A/55E9B8F9".
+
+Info: Checking netlist component footprint "R211:/55E9990A/55E9B9C1:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R211:" to "/55E9990A/55E9B9C1".
+
+Info: Checking netlist component footprint "R212:/55E9990A/55E9BA89:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R212:" to "/55E9990A/55E9BA89".
+
+Info: Checking netlist component footprint "R213:/55E9990A/55E9BB51:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R213:" to "/55E9990A/55E9BB51".
+
+Info: Checking netlist component footprint "R214:/55E9990A/55E9BC19:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R214:" to "/55E9990A/55E9BC19".
+
+Info: Checking netlist component footprint "R215:/55E9990A/55E9BCE1:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R215:" to "/55E9990A/55E9BCE1".
+
+Info: Checking netlist component footprint "R216:/55E9990A/55E9BDA9:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R216:" to "/55E9990A/55E9BDA9".
+
+Info: Checking netlist component footprint "R301:/55E9990C/55E9C76D:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R301:" to "/55E9990C/55E9C76D".
+
+Info: Checking netlist component footprint "R302:/55E9990C/55E9C835:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R302:" to "/55E9990C/55E9C835".
+
+Info: Checking netlist component footprint "R303:/55E9990C/55E9C8FD:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R303:" to "/55E9990C/55E9C8FD".
+
+Info: Checking netlist component footprint "R304:/55E9990C/55E9C9C5:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R304:" to "/55E9990C/55E9C9C5".
+
+Info: Checking netlist component footprint "R305:/55E9990C/55E9CA8D:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R305:" to "/55E9990C/55E9CA8D".
+
+Info: Checking netlist component footprint "R306:/55E9990C/55E9CB55:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R306:" to "/55E9990C/55E9CB55".
+
+Info: Checking netlist component footprint "R307:/55E9990C/55E9CC1D:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R307:" to "/55E9990C/55E9CC1D".
+
+Info: Checking netlist component footprint "R401:/55E9990E/55E9DD4D:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R401:" to "/55E9990E/55E9DD4D".
+
+Info: Checking netlist component footprint "R402:/55E9990E/55E9DE15:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R402:" to "/55E9990E/55E9DE15".
+
+Info: Checking netlist component footprint "R403:/55E9990E/55E9DEDD:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R403:" to "/55E9990E/55E9DEDD".
+
+Info: Checking netlist component footprint "R404:/55E9990E/55E9DFA5:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R404:" to "/55E9990E/55E9DFA5".
+
+Info: Checking netlist component footprint "R405:/55E9990E/55E9E06D:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R405:" to "/55E9990E/55E9E06D".
+
+Info: Checking netlist component footprint "R406:/55E9990E/55E9E135:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R406:" to "/55E9990E/55E9E135".
+
+Info: Checking netlist component footprint "R407:/55E9990E/55E9E1FD:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R407:" to "/55E9990E/55E9E1FD".
+
+Info: Checking netlist component footprint "R408:/55E9990E/55E9E2C5:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R408:" to "/55E9990E/55E9E2C5".
+
+Info: Checking netlist component footprint "R409:/55E9990E/55E9E38D:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R409:" to "/55E9990E/55E9E38D".
+
+Info: Checking netlist component footprint "R602:/55E99912/55EA1C96:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R602:" to "/55E99912/55EA1C96".
+
+Info: Checking netlist component footprint "R603:/55E99912/55EA1D5E:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R603:" to "/55E99912/55EA1D5E".
+
+Info: Checking netlist component footprint "R604:/55E99912/55EA1E26:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R604:" to "/55E99912/55EA1E26".
+
+Info: Checking netlist component footprint "R608:/55E99912/55EA1EEE:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R608:" to "/55E99912/55EA1EEE".
+
+Info: Checking netlist component footprint "R609:/55E99912/55EA1FB6:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R609:" to "/55E99912/55EA1FB6".
+
+Info: Checking netlist component footprint "R610:/55E99912/55EA207E:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R610:" to "/55E99912/55EA207E".
+
+Info: Checking netlist component footprint "R611:/55E99912/55EA2146:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R611:" to "/55E99912/55EA2146".
+
+Info: Checking netlist component footprint "R615:/55E99912/55EA220E:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R615:" to "/55E99912/55EA220E".
+
+Info: Checking netlist component footprint "R616:/55E99912/55EA22D6:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R616:" to "/55E99912/55EA22D6".
+
+Info: Checking netlist component footprint "R617:/55E99912/55EA239E:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R617:" to "/55E99912/55EA239E".
+
+Info: Checking netlist component footprint "R620:/55E99912/55EA2466:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R620:" to "/55E99912/55EA2466".
+
+Info: Checking netlist component footprint "R621:/55E99912/55EA252E:PIXHAWK2_0603-RES".
+
+Info: Changing component path "R621:" to "/55E99912/55EA252E".
+
+Info: Checking netlist component footprint "R635:/55E99912/55EA25F6:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R635:" to "/55E99912/55EA25F6".
+
+Info: Checking netlist component footprint "R701:/55E99914/55EA3C3A:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R701:" to "/55E99914/55EA3C3A".
+
+Info: Checking netlist component footprint "R702:/55E99914/55EA3D02:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R702:" to "/55E99914/55EA3D02".
+
+Info: Checking netlist component footprint "R703:/55E99914/55EA3DCA:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R703:" to "/55E99914/55EA3DCA".
+
+Info: Checking netlist component footprint "R704:/55E99914/55EA3E92:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R704:" to "/55E99914/55EA3E92".
+
+Info: Checking netlist component footprint "R705:/55E99914/55EA3F5A:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R705:" to "/55E99914/55EA3F5A".
+
+Info: Checking netlist component footprint "R706:/55E99914/55EA4022:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R706:" to "/55E99914/55EA4022".
+
+Info: Checking netlist component footprint "R707:/55E99914/55EA40EA:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R707:" to "/55E99914/55EA40EA".
+
+Info: Checking netlist component footprint "R708:/55E99914/55EA41B2:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R708:" to "/55E99914/55EA41B2".
+
+Info: Checking netlist component footprint "R709:/55E99914/55EA427A:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R709:" to "/55E99914/55EA427A".
+
+Info: Checking netlist component footprint "R710:/55E99914/55EA4342:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R710:" to "/55E99914/55EA4342".
+
+Info: Checking netlist component footprint "R711:/55E99914/55EA440A:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R711:" to "/55E99914/55EA440A".
+
+Info: Checking netlist component footprint "R712:/55E99914/55EA44D2:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R712:" to "/55E99914/55EA44D2".
+
+Info: Checking netlist component footprint "R713:/55E99914/55EA459A:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R713:" to "/55E99914/55EA459A".
+
+Info: Checking netlist component footprint "R801:/55E99916/55EA5B16:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R801:" to "/55E99916/55EA5B16".
+
+Info: Checking netlist component footprint "R802:/55E99916/55EA5BDE:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R802:" to "/55E99916/55EA5BDE".
+
+Info: Checking netlist component footprint "R803:/55E99916/55EA5CA6:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R803:" to "/55E99916/55EA5CA6".
+
+Info: Checking netlist component footprint "R804:/55E99916/55EA5D6E:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R804:" to "/55E99916/55EA5D6E".
+
+Info: Checking netlist component footprint "R901:/55E99918/55EA7542:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R901:" to "/55E99918/55EA7542".
+
+Info: Checking netlist component footprint "R902:/55E99918/55EA760A:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R902:" to "/55E99918/55EA760A".
+
+Info: Checking netlist component footprint "R903:/55E99918/55EA76D2:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R903:" to "/55E99918/55EA76D2".
+
+Info: Checking netlist component footprint "R904:/55E99918/55EA779A:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R904:" to "/55E99918/55EA779A".
+
+Info: Checking netlist component footprint "R905:/55E99918/55EA7862:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R905:" to "/55E99918/55EA7862".
+
+Info: Checking netlist component footprint "R906:/55E99918/55EA792A:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R906:" to "/55E99918/55EA792A".
+
+Info: Checking netlist component footprint "R907:/55E99918/55EA79F2:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R907:" to "/55E99918/55EA79F2".
+
+Info: Checking netlist component footprint "R908:/55E99918/55EA7ABA:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R908:" to "/55E99918/55EA7ABA".
+
+Info: Checking netlist component footprint "R909:/55E99918/55EA7B82:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R909:" to "/55E99918/55EA7B82".
+
+Info: Checking netlist component footprint "R910:/55E99918/55EA7C4A:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R910:" to "/55E99918/55EA7C4A".
+
+Info: Checking netlist component footprint "R911:/55E99918/55EA7D12:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R911:" to "/55E99918/55EA7D12".
+
+Info: Checking netlist component footprint "R912:/55E99918/55EA7DDA:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R912:" to "/55E99918/55EA7DDA".
+
+Info: Checking netlist component footprint "R913:/55E99918/55EA7EA2:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R913:" to "/55E99918/55EA7EA2".
+
+Info: Checking netlist component footprint "R914:/55E99918/55EA7F6A:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R914:" to "/55E99918/55EA7F6A".
+
+Info: Checking netlist component footprint "R915:/55E99918/55EA8032:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R915:" to "/55E99918/55EA8032".
+
+Info: Checking netlist component footprint "R916:/55E99918/55EA80FA:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R916:" to "/55E99918/55EA80FA".
+
+Info: Checking netlist component footprint "R917:/55E99918/55EA81C2:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R917:" to "/55E99918/55EA81C2".
+
+Info: Checking netlist component footprint "R918:/55E99918/55EA828A:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R918:" to "/55E99918/55EA828A".
+
+Info: Checking netlist component footprint "R919:/55E99918/55EA8352:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R919:" to "/55E99918/55EA8352".
+
+Info: Checking netlist component footprint "R922:/55E99918/55EA841A:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R922:" to "/55E99918/55EA841A".
+
+Info: Checking netlist component footprint "R1001:/55E9991A/55EA928E:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R1001:" to "/55E9991A/55EA928E".
+
+Info: Checking netlist component footprint "R1002:/55E9991A/55EA9356:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R1002:" to "/55E9991A/55EA9356".
+
+Info: Checking netlist component footprint "R1101:/55E9991C/55EAA487:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R1101:" to "/55E9991C/55EAA487".
+
+Info: Checking netlist component footprint "R1102:/55E9991C/55EAA54F:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R1102:" to "/55E9991C/55EAA54F".
+
+Info: Checking netlist component footprint "R1103:/55E9991C/55EAA617:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R1103:" to "/55E9991C/55EAA617".
+
+Info: Checking netlist component footprint "R1104:/55E9991C/55EAA6DF:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R1104:" to "/55E9991C/55EAA6DF".
+
+Info: Checking netlist component footprint "R1105:/55E9991C/55EAA7A7:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R1105:" to "/55E9991C/55EAA7A7".
+
+Info: Checking netlist component footprint "R1106:/55E9991C/55EAA86F:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R1106:" to "/55E9991C/55EAA86F".
+
+Info: Checking netlist component footprint "R1107:/55E9991C/55EAA937:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R1107:" to "/55E9991C/55EAA937".
+
+Info: Checking netlist component footprint "R1109:/55E9991C/55EAA9FF:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R1109:" to "/55E9991C/55EAA9FF".
+
+Info: Checking netlist component footprint "R1110:/55E9991C/55EAAAC7:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R1110:" to "/55E9991C/55EAAAC7".
+
+Info: Checking netlist component footprint "R1111:/55E9991C/55EAAB8F:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R1111:" to "/55E9991C/55EAAB8F".
+
+Info: Checking netlist component footprint "R1112:/55E9991C/55EAAC57:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R1112:" to "/55E9991C/55EAAC57".
+
+Info: Checking netlist component footprint "R1113:/55E9991C/55EAAD1F:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R1113:" to "/55E9991C/55EAAD1F".
+
+Info: Checking netlist component footprint "R1114:/55E9991C/55EAADE7:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R1114:" to "/55E9991C/55EAADE7".
+
+Info: Checking netlist component footprint "R1115:/55E9991C/55EAAEAF:PIXHAWK2_0402-RES".
+
+Info: Changing component path "R1115:" to "/55E9991C/55EAAEAF".
+
+Info: Checking netlist component footprint "RN1101:/55E9991C/55EAAF77:RESISTOR-DIL_EXB28V".
+
+Info: Changing component path "RN1101:" to "/55E9991C/55EAAF77".
+
+Info: Checking netlist component footprint "S1RX1116:/55E9991E/55EAC363:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "S1RX1116:" to "/55E9991E/55EAC363".
+
+Info: Checking netlist component footprint "S1TX1116:/55E9991E/55EAC42B:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "S1TX1116:" to "/55E9991E/55EAC42B".
+
+Info: Checking netlist component footprint "S2RX1116:/55E9991E/55EAC4F3:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "S2RX1116:" to "/55E9991E/55EAC4F3".
+
+Info: Checking netlist component footprint "S2TX1116:/55E9991E/55EAC5BB:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "S2TX1116:" to "/55E9991E/55EAC5BB".
+
+Info: Checking netlist component footprint "S3RX1116:/55E9991E/55EAC683:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "S3RX1116:" to "/55E9991E/55EAC683".
+
+Info: Checking netlist component footprint "S3TX1116:/55E9991E/55EAC74B:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "S3TX1116:" to "/55E9991E/55EAC74B".
+
+Info: Checking netlist component footprint "S4RX1116:/55E9991E/55EAC813:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "S4RX1116:" to "/55E9991E/55EAC813".
+
+Info: Checking netlist component footprint "S4TX1116:/55E9991E/55EAC8DB:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "S4TX1116:" to "/55E9991E/55EAC8DB".
+
+Info: Checking netlist component footprint "S5_RX1116:/55E9991E/55EAC9A3:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "S5_RX1116:" to "/55E9991E/55EAC9A3".
+
+Info: Checking netlist component footprint "S5_TX1116:/55E9991E/55EACA6B:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "S5_TX1116:" to "/55E9991E/55EACA6B".
+
+Info: Checking netlist component footprint "S601:/55E99912/55EA26BE:PIXHAWK2_EVQP7J01K".
+
+Info: Changing component path "S601:" to "/55E99912/55EA26BE".
+
+Info: Checking netlist component footprint "S801:/55E99916/55EA5E36:PIXHAWK2_EVQP7J01K".
+
+Info: Changing component path "S801:" to "/55E99916/55EA5E36".
+
+Info: Checking netlist component footprint "U101:/55E99908/55E99F95:PIXHAWK2_TQFP100".
+
+Info: Changing component path "U101:" to "/55E99908/55E99F95".
+
+Changing component "U101:/55E99908/55E99F95" pin "16" net name from "" to "Net-(U101-Pad16)".
+
+Info: Checking netlist component footprint "U102:/55E99908/55E9A445:PIXHAWK2_SO08".
+
+Info: Changing component path "U102:" to "/55E99908/55E9A445".
+
+Info: Checking netlist component footprint "U201:/55E9990A/55E9BE71:PIXHAWK2_QFN20-RGY".
+
+Info: Changing component path "U201:" to "/55E9990A/55E9BE71".
+
+Info: Checking netlist component footprint "U202:/55E9990A/55E9BF39:PIXHAWK2_QFN20-RGY".
+
+Info: Changing component path "U202:" to "/55E9990A/55E9BF39".
+
+Changing component "U202:/55E9990A/55E9BF39" pin "3" net name from "" to "Net-(U202-Pad3)".
+
+Changing component "U202:/55E9990A/55E9BF39" pin "18" net name from "" to "Net-(U202-Pad18)".
+
+Changing component "U202:/55E9990A/55E9BF39" pin "20" net name from "" to "Net-(U202-Pad20)".
+
+Changing component "U202:/55E9990A/55E9BF39" pin "1" net name from "" to "Net-(U202-Pad1)".
+
+Info: Checking netlist component footprint "U301:/55E9990C/55E9CCE5:BASEBOARD_MICROSD".
+
+Info: Changing component path "U301:" to "/55E9990C/55E9CCE5".
+
+Info: Checking netlist component footprint "U302:/55E9990C/55E9CDAD:PIXHAWK2_SOT563-6".
+
+Info: Changing component path "U302:" to "/55E9990C/55E9CDAD".
+
+Info: Checking netlist component footprint "U401:/55E9990E/55E9E455:PIXHAWK2_SOT23-8".
+
+Info: Changing component path "U401:" to "/55E9990E/55E9E455".
+
+Info: Checking netlist component footprint "U501:/55E99910/55E9F8A5:PIXHAWK2_L3G4200DH-MAN".
+
+Info: Changing component path "U501:" to "/55E99910/55E9F8A5".
+
+Changing component "U501:/55E99910/55E9F8A5" pin "7" net name from "" to "Net-(U501-Pad7)".
+
+Info: Checking netlist component footprint "U502:/55E99910/55E9F96D:PIXHAWK2_LGA-16L".
+
+Info: Changing component path "U502:" to "/55E99910/55E9F96D".
+
+Changing component "U502:/55E99910/55E9F96D" pin "7" net name from "" to "Net-(U502-Pad7)".
+
+Changing component "U502:/55E99910/55E9F96D" pin "8" net name from "" to "Net-(U502-Pad8)".
+
+Info: Checking netlist component footprint "U504:/55E99910/55E9FA35:PIXHAWK2_LGA-16L".
+
+Info: Changing component path "U504:" to "/55E99910/55E9FA35".
+
+Info: Checking netlist component footprint "U505:/55E99910/55E9FAFD:PIXHAWK2_QFN-24".
+
+Info: Changing component path "U505:" to "/55E99910/55E9FAFD".
+
+Changing component "U505:/55E99910/55E9FAFD" pin "2" net name from "" to "Net-(U505-Pad2)".
+
+Changing component "U505:/55E99910/55E9FAFD" pin "3" net name from "" to "Net-(U505-Pad3)".
+
+Changing component "U505:/55E99910/55E9FAFD" pin "4" net name from "" to "Net-(U505-Pad4)".
+
+Changing component "U505:/55E99910/55E9FAFD" pin "5" net name from "" to "Net-(U505-Pad5)".
+
+Changing component "U505:/55E99910/55E9FAFD" pin "6" net name from "" to "Net-(U505-Pad6)".
+
+Changing component "U505:/55E99910/55E9FAFD" pin "7" net name from "" to "Net-(U505-Pad7)".
+
+Changing component "U505:/55E99910/55E9FAFD" pin "11" net name from "" to "Net-(U505-Pad11)".
+
+Changing component "U505:/55E99910/55E9FAFD" pin "14" net name from "" to "Net-(U505-Pad14)".
+
+Changing component "U505:/55E99910/55E9FAFD" pin "15" net name from "" to "Net-(U505-Pad15)".
+
+Changing component "U505:/55E99910/55E9FAFD" pin "16" net name from "" to "Net-(U505-Pad16)".
+
+Changing component "U505:/55E99910/55E9FAFD" pin "17" net name from "" to "Net-(U505-Pad17)".
+
+Changing component "U505:/55E99910/55E9FAFD" pin "19" net name from "" to "Net-(U505-Pad19)".
+
+Changing component "U505:/55E99910/55E9FAFD" pin "21" net name from "" to "Net-(U505-Pad21)".
+
+Changing component "U505:/55E99910/55E9FAFD" pin "22" net name from "" to "Net-(U505-Pad22)".
+
+Info: Checking netlist component footprint "U506:/55E99910/55E9FBC5:PIXHAWK2_MS5611-01BA".
+
+Info: Changing component path "U506:" to "/55E99910/55E9FBC5".
+
+Changing component "U506:/55E99910/55E9FBC5" pin "4" net name from "" to "Net-(U506-Pad4)".
+
+Info: Checking netlist component footprint "U601:/55E99912/55EA2916:PIXHAWK2_QFN8-DSG".
+
+Info: Changing component path "U601:" to "/55E99912/55EA2916".
+
+Info: Checking netlist component footprint "U602:/55E99912/55EA29DE:PIXHAWK2_QFN8-DSG".
+
+Info: Changing component path "U602:" to "/55E99912/55EA29DE".
+
+Info: Checking netlist component footprint "U603:/55E99912/55EA2AA6:PIXHAWK2_MLF-8-EPAD".
+
+Info: Changing component path "U603:" to "/55E99912/55EA2AA6".
+
+Info: Checking netlist component footprint "U701:/55E99914/55EA4662:PIXHAWK2_SON10".
+
+Info: Changing component path "U701:" to "/55E99914/55EA4662".
+
+Info: Checking netlist component footprint "U702:/55E99914/55EA472A:PIXHAWK2_SOT23-8".
+
+Info: Changing component path "U702:" to "/55E99914/55EA472A".
+
+Info: Checking netlist component footprint "U703:/55E99914/55EA47F2:PIXHAWK2_6-PLCC".
+
+Info: Changing component path "U703:" to "/55E99914/55EA47F2".
+
+Info: Checking netlist component footprint "U801:/55E99916/55EA5EFE:PIXHAWK2_TQFP48".
+
+Info: Changing component path "U801:" to "/55E99916/55EA5EFE".
+
+Changing component "U801:/55E99916/55EA5EFE" pin "3" net name from "" to "Net-(U801-Pad3)".
+
+Changing component "U801:/55E99916/55EA5EFE" pin "4" net name from "" to "Net-(U801-Pad4)".
+
+Changing component "U801:/55E99916/55EA5EFE" pin "25" net name from "" to "Net-(U801-Pad25)".
+
+Changing component "U801:/55E99916/55EA5EFE" pin "32" net name from "" to "Net-(U801-Pad32)".
+
+Changing component "U801:/55E99916/55EA5EFE" pin "42" net name from "" to "Net-(U801-Pad42)".
+
+Changing component "U801:/55E99916/55EA5EFE" pin "43" net name from "" to "Net-(U801-Pad43)".
+
+Info: Checking netlist component footprint "U901:/55E99918/55EA84E2:PIXHAWK2_QFN20-RGY".
+
+Info: Changing component path "U901:" to "/55E99918/55EA84E2".
+
+Changing component "U901:/55E99918/55EA84E2" pin "8" net name from "" to "Net-(U901-Pad8)".
+
+Changing component "U901:/55E99918/55EA84E2" pin "9" net name from "" to "Net-(U901-Pad9)".
+
+Changing component "U901:/55E99918/55EA84E2" pin "12" net name from "" to "Net-(U901-Pad12)".
+
+Changing component "U901:/55E99918/55EA84E2" pin "13" net name from "" to "Net-(U901-Pad13)".
+
+Info: Checking netlist component footprint "U902:/55E99918/55EA85AA:PIXHAWK2_QFN20-RGY".
+
+Info: Changing component path "U902:" to "/55E99918/55EA85AA".
+
+Info: Checking netlist component footprint "U903:/55E99918/55EA8672:PIXHAWK2_TSSOP8_SOT505-2".
+
+Info: Changing component path "U903:" to "/55E99918/55EA8672".
+
+Info: Checking netlist component footprint "U1001:/55E9991A/55EA941E:PIXHAWK2_QFN8-DSG".
+
+Info: Changing component path "U1001:" to "/55E9991A/55EA941E".
+
+Info: Checking netlist component footprint "U1002:/55E9991A/55EA94E6:PIXHAWK2_MLF-8-EPAD".
+
+Info: Changing component path "U1002:" to "/55E9991A/55EA94E6".
+
+Info: Checking netlist component footprint "U1101:/55E9991C/55EAB107:PIXHAWK2_MO-220".
+
+Info: Changing component path "U1101:" to "/55E9991C/55EAB107".
+
+Changing component "U1101:/55E9991C/55EAB107" pin "P$11" net name from "" to "Net-(U1101-PadP$11)".
+
+Changing component "U1101:/55E9991C/55EAB107" pin "P$22" net name from "" to "Net-(U1101-PadP$22)".
+
+Changing component "U1101:/55E9991C/55EAB107" pin "P$23" net name from "" to "Net-(U1101-PadP$23)".
+
+Info: Checking netlist component footprint "U1102:/55E9991C/55EAB1CF:PIXHAWK2_1206-8".
+
+Info: Changing component path "U1102:" to "/55E9991C/55EAB1CF".
+
+Info: Checking netlist component footprint "U1103:/55E9991C/55EAB2FB:PIXHAWK2_1206-8".
+
+Info: Changing component path "U1103:" to "/55E9991C/55EAB2FB".
+
+Info: Checking netlist component footprint "U1104:/55E9991C/55EAB427:PIXHAWK2_1206-8".
+
+Info: Changing component path "U1104:" to "/55E9991C/55EAB427".
+
+Info: Checking netlist component footprint "VBUS1116:/55E9991E/55EACB33:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "VBUS1116:" to "/55E9991E/55EACB33".
+
+Info: Checking netlist component footprint "VDDA_3V1101:/55E9991E/55EACBFB:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "VDDA_3V1101:" to "/55E9991E/55EACBFB".
+
+Info: Checking netlist component footprint "VDD_3V1101:/55E9991E/55EACCC3:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "VDD_3V1101:" to "/55E9991E/55EACCC3".
+
+Info: Checking netlist component footprint "VDD_5V_BRICK1116:/55E9991E/55EACD8B:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "VDD_5V_BRICK1116:" to "/55E9991E/55EACD8B".
+
+Info: Checking netlist component footprint "VDD_5V_IN1116:/55E9991E/55EACE53:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "VDD_5V_IN1116:" to "/55E9991E/55EACE53".
+
+Info: Checking netlist component footprint "VDD_SERVO1116:/55E9991E/55EACF1B:PIXHAWK2_PAD.04X.04".
+
+Info: Changing component path "VDD_SERVO1116:" to "/55E9991E/55EACF1B".
+
+Info: Checking netlist component footprint "VP_0:/55E9991E/55EACFE3:VPAD_VPAC0".
+
+Info: Changing component path "VP_0:" to "/55E9991E/55EACFE3".
+
+Info: Checking netlist component footprint "VP_1:/55E9991E/55EAD0AB:VPAD_VPAC0".
+
+Info: Changing component path "VP_1:" to "/55E9991E/55EAD0AB".
+
+Info: Checking netlist component footprint "VP_2:/55E9991E/55EAD173:VPAD_VPAC0".
+
+Info: Changing component path "VP_2:" to "/55E9991E/55EAD173".
+
+Info: Checking netlist component footprint "VP_3:/55E9991E/55EAD23B:VPAD_VPAC0".
+
+Info: Changing component path "VP_3:" to "/55E9991E/55EAD23B".
+
+Info: Checking netlist component footprint "VP_4:/55E9991E/55EAD303:VPAD_VPAC1".
+
+Info: Changing component path "VP_4:" to "/55E9991E/55EAD303".
+
+Info: Checking netlist component footprint "VP_5:/55E9991E/55EAD3CB:VPAD_VPAC1".
+
+Info: Changing component path "VP_5:" to "/55E9991E/55EAD3CB".
+
+Info: Checking netlist component footprint "VP_6:/55E9991E/55EAD493:VPAD_VPAC1".
+
+Info: Changing component path "VP_6:" to "/55E9991E/55EAD493".
+
+Info: Checking netlist component footprint "VP_7:/55E9991E/55EAD55B:VPAD_VPAC1".
+
+Info: Changing component path "VP_7:" to "/55E9991E/55EAD55B".
+
+Info: Checking netlist component footprint "VP_8:/55E9991E/55EAD623:VPAD_VPAC1".
+
+Info: Changing component path "VP_8:" to "/55E9991E/55EAD623".
+
+Info: Checking netlist component footprint "VP_9:/55E9991E/55EAD6EB:VPAD_VPAC1".
+
+Info: Changing component path "VP_9:" to "/55E9991E/55EAD6EB".
+
+Info: Checking netlist component footprint "VP_10:/55E9991E/55EAD7B3:VPAD_VPAC1".
+
+Info: Changing component path "VP_10:" to "/55E9991E/55EAD7B3".
+
+Info: Checking netlist component footprint "VP_11:/55E9991E/55EAD87B:VPAD_VPAC1".
+
+Info: Changing component path "VP_11:" to "/55E9991E/55EAD87B".
+
+Info: Checking netlist component footprint "VP_12:/55E9991E/55EAD943:VPAD_VPAC1".
+
+Info: Changing component path "VP_12:" to "/55E9991E/55EAD943".
+
+Info: Checking netlist component footprint "VP_13:/55E9991E/55EADA0B:VPAD_VPAC1".
+
+Info: Changing component path "VP_13:" to "/55E9991E/55EADA0B".
+
+Info: Checking netlist component footprint "VP_14:/55E9991E/55EADAD3:VPAD_VPAC1".
+
+Info: Changing component path "VP_14:" to "/55E9991E/55EADAD3".
+
+Info: Checking netlist component footprint "VP_15:/55E9991E/55EADB9B:VPAD_VPAC1".
+
+Info: Changing component path "VP_15:" to "/55E9991E/55EADB9B".
+
+Info: Checking netlist component footprint "VP_16:/55E9991E/55EADC63:VPAD_VPAC1".
+
+Info: Changing component path "VP_16:" to "/55E9991E/55EADC63".
+
+Info: Checking netlist component footprint "VP_17:/55E9991E/55EADD2B:VPAD_VPAC1".
+
+Info: Changing component path "VP_17:" to "/55E9991E/55EADD2B".
+
+Info: Checking netlist component footprint "VP_18:/55E9991E/55EADDF3:VPAD_VPAC1".
+
+Info: Changing component path "VP_18:" to "/55E9991E/55EADDF3".
+
+Info: Checking netlist component footprint "VP_19:/55E9991E/55EADEBB:VPAD_VPAC1".
+
+Info: Changing component path "VP_19:" to "/55E9991E/55EADEBB".
+
+Info: Checking netlist component footprint "VP_20:/55E9991E/55EADF83:VPAD_VPAC1".
+
+Info: Changing component path "VP_20:" to "/55E9991E/55EADF83".
+
+Info: Checking netlist component footprint "VP_21:/55E9991E/55EAE04B:VPAD_VPAC1".
+
+Info: Changing component path "VP_21:" to "/55E9991E/55EAE04B".
+
+Info: Checking netlist component footprint "VP_22:/55E9991E/55EAE113:VPAD_VPAC1".
+
+Info: Changing component path "VP_22:" to "/55E9991E/55EAE113".
+
+Info: Checking netlist component footprint "VP_23:/55E9991E/55EAE1DB:VPAD_VPAC1".
+
+Info: Changing component path "VP_23:" to "/55E9991E/55EAE1DB".
+
+Info: Checking netlist component footprint "VP_24:/55E9991E/55EAE2A3:VPAD_VPAC1".
+
+Info: Changing component path "VP_24:" to "/55E9991E/55EAE2A3".
+
+Info: Checking netlist component footprint "VP_25:/55E9991E/55EAE36B:VPAD_VPAC1".
+
+Info: Changing component path "VP_25:" to "/55E9991E/55EAE36B".
+
+Info: Checking netlist component footprint "VP_26:/55E9991E/55EAE433:VPAD_VPAC1".
+
+Info: Changing component path "VP_26:" to "/55E9991E/55EAE433".
+
+Info: Checking netlist component footprint "VP_27:/55E9991E/55EAE4FB:VPAD_VPAC1".
+
+Info: Changing component path "VP_27:" to "/55E9991E/55EAE4FB".
+
+Info: Checking netlist component footprint "VP_28:/55E9991E/55EAE5C3:VPAD_VPAC1".
+
+Info: Changing component path "VP_28:" to "/55E9991E/55EAE5C3".
+
+Info: Checking netlist component footprint "VP_29:/55E9991E/55EAE68B:VPAD_VPAC1".
+
+Info: Changing component path "VP_29:" to "/55E9991E/55EAE68B".
+
+Info: Checking netlist component footprint "VP_30:/55E9991E/55EAE753:VPAD_VPAC1".
+
+Info: Changing component path "VP_30:" to "/55E9991E/55EAE753".
+
+Info: Checking netlist component footprint "VP_31:/55E9991E/55EAE81B:VPAD_VPAC1".
+
+Info: Changing component path "VP_31:" to "/55E9991E/55EAE81B".
+
+Info: Checking netlist component footprint "VP_32:/55E9991E/55EAE8E3:VPAD_VPAC1".
+
+Info: Changing component path "VP_32:" to "/55E9991E/55EAE8E3".
+
+Info: Checking netlist component footprint "VP_33:/55E9991E/55EAE9AB:VPAD_VPAC0".
+
+Info: Changing component path "VP_33:" to "/55E9991E/55EAE9AB".
+
+Info: Checking netlist component footprint "VP_34:/55E9991E/55EAEA73:VPAD_VPAC0".
+
+Info: Changing component path "VP_34:" to "/55E9991E/55EAEA73".
+
+Info: Checking netlist component footprint "VP_35:/55E9991E/55EAEB3B:VPAD_VPAC0".
+
+Info: Changing component path "VP_35:" to "/55E9991E/55EAEB3B".
+
+Info: Checking netlist component footprint "VP_36:/55E9991E/55EAEC03:VPAD_VPAC1".
+
+Info: Changing component path "VP_36:" to "/55E9991E/55EAEC03".
+
+Info: Checking netlist component footprint "VP_37:/55E9991E/55EAECCB:VPAD_VPAC1".
+
+Info: Changing component path "VP_37:" to "/55E9991E/55EAECCB".
+
+Info: Checking netlist component footprint "VP_38:/55E9991E/55EAED93:VPAD_VPAC2".
+
+Info: Changing component path "VP_38:" to "/55E9991E/55EAED93".
+
+Info: Checking netlist component footprint "VP_39:/55E9991E/55EAEE5B:VPAD_VPAC1".
+
+Info: Changing component path "VP_39:" to "/55E9991E/55EAEE5B".
+
+Info: Checking netlist component footprint "VP_40:/55E9991E/55EAEF23:VPAD_VPAC1".
+
+Info: Changing component path "VP_40:" to "/55E9991E/55EAEF23".
+
+Info: Checking netlist component footprint "VP_41:/55E9991E/55EAEFEB:VPAD_VPAC0".
+
+Info: Changing component path "VP_41:" to "/55E9991E/55EAEFEB".
+
+Info: Checking netlist component footprint "VP_42:/55E9991E/55EAF0B3:VPAD_VPAC0".
+
+Info: Changing component path "VP_42:" to "/55E9991E/55EAF0B3".
+
+Info: Checking netlist component footprint "VP_43:/55E9991E/55EAF17B:VPAD_VPAC0".
+
+Info: Changing component path "VP_43:" to "/55E9991E/55EAF17B".
+
+Info: Checking netlist component footprint "VP_44:/55E9991E/55EAF243:VPAD_VPAC1".
+
+Info: Changing component path "VP_44:" to "/55E9991E/55EAF243".
+
+Info: Checking netlist component footprint "VP_45:/55E9991E/55EAF30B:VPAD_VPAC1".
+
+Info: Changing component path "VP_45:" to "/55E9991E/55EAF30B".
+
+Info: Checking netlist component footprint "VP_46:/55E9991E/55EAF3D3:VPAD_VPAC1".
+
+Info: Changing component path "VP_46:" to "/55E9991E/55EAF3D3".
+
+Info: Checking netlist component footprint "VP_47:/55E9991E/55EAF49B:VPAD_VPAC1".
+
+Info: Changing component path "VP_47:" to "/55E9991E/55EAF49B".
+
+Info: Checking netlist component footprint "VP_48:/55E9991E/55EAF563:VPAD_VPAC1".
+
+Info: Changing component path "VP_48:" to "/55E9991E/55EAF563".
+
+Info: Checking netlist component footprint "VP_49:/55E9991E/55EAF62B:VPAD_VPAC1".
+
+Info: Changing component path "VP_49:" to "/55E9991E/55EAF62B".
+
+Info: Checking netlist component footprint "VP_50:/55E9991E/55EAF6F3:VPAD_VPAC1".
+
+Info: Changing component path "VP_50:" to "/55E9991E/55EAF6F3".
+
+Info: Checking netlist component footprint "VP_51:/55E9991E/55EAF7BB:VPAD_VPAC0".
+
+Info: Changing component path "VP_51:" to "/55E9991E/55EAF7BB".
+
+Info: Checking netlist component footprint "VP_52:/55E9991E/55EAF883:VPAD_VPAC0".
+
+Info: Changing component path "VP_52:" to "/55E9991E/55EAF883".
+
+Info: Checking netlist component footprint "VP_53:/55E9991E/55EAF94B:VPAD_VPAC0".
+
+Info: Changing component path "VP_53:" to "/55E9991E/55EAF94B".
+
+Info: Checking netlist component footprint "VP_54:/55E9991E/55EAFA13:VPAD_VPAC0".
+
+Info: Changing component path "VP_54:" to "/55E9991E/55EAFA13".
+
+Info: Checking netlist component footprint "VP_55:/55E9991E/55EAFADB:VPAD_VPAC0".
+
+Info: Changing component path "VP_55:" to "/55E9991E/55EAFADB".
+
+Info: Checking netlist component footprint "VP_56:/55E9991E/55EAFBA3:VPAD_VPAC0".
+
+Info: Changing component path "VP_56:" to "/55E9991E/55EAFBA3".
+
+Info: Checking netlist component footprint "VP_57:/55E9991E/55EAFC6B:VPAD_VPAC0".
+
+Info: Changing component path "VP_57:" to "/55E9991E/55EAFC6B".
+
+Info: Checking netlist component footprint "VP_58:/55E9991E/55EAFD33:VPAD_VPAC0".
+
+Info: Changing component path "VP_58:" to "/55E9991E/55EAFD33".
+
+Info: Checking netlist component footprint "VP_59:/55E9991E/55EAFDFB:VPAD_VPAC0".
+
+Info: Changing component path "VP_59:" to "/55E9991E/55EAFDFB".
+
+Info: Checking netlist component footprint "VP_60:/55E9991E/55EAFEC3:VPAD_VPAC0".
+
+Info: Changing component path "VP_60:" to "/55E9991E/55EAFEC3".
+
+Info: Checking netlist component footprint "VP_61:/55E9991E/55EAFF8B:VPAD_VPAC0".
+
+Info: Changing component path "VP_61:" to "/55E9991E/55EAFF8B".
+
+Info: Checking netlist component footprint "X101:/55E99908/55E9A50D:PIXHAWK2_OSCILLATOR-3.2X2.5".
+
+Info: Changing component path "X101:" to "/55E99908/55E9A50D".
+
+Info: Checking netlist component footprint "X503:/55E99910/55E9FC8D:PIXHAWK2_51281-1094".
+
+Info: Changing component path "X503:" to "/55E99910/55E9FC8D".
+
+Info: Checking netlist component footprint "X801:/55E99916/55EA62E6:PIXHAWK2_OSCILLATOR-3.2X2.5".
+
+Info: Changing component path "X801:" to "/55E99916/55EA62E6".
+

@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Light-barrier
+D Light barrier 0.5 mm slit
+K Shap, Light, barrier
+F http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/gp1s53v_e.pdf
+$ENDCMP
+#
+$CMP PCT2075
+D Temperature Sensor, I2C, 11-bit,NXP,Over-temperature shutdown
+K Temperature Sensor, I2C, 11-bit,NXP,Over-temperature shutdown
+F http://www.nxp.com/documents/data_sheet/PCT2075.pdf
+$ENDCMP
+#
+$CMP TC77
+D SPI TEMPERATURE SENSOR  SOT23-5 13b
+K SPI, Temperature
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20092B.pdf
+$ENDCMP
+#
+#End Doc Library

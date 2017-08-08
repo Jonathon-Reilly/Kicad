@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCA9306
+D  I2C Volt Level Translator
+K IC Volt Level Translator, I2C, PCA9306, 3V3, 5V
+F http://www.onsemi.com/pub_link/Collateral/PCA9306-D.PDF
+$ENDCMP
+#
+$CMP Si8620
+D General Purpose Digital Isolator 2500Vrms 2 Channel 150Mbps
+K Isolator, 2,5kV, SOIC-8
+F http://www.silabs.com/documents/public/data-sheets/si861x-2x-datasheet.pdf
+$ENDCMP
+#
+$CMP Si8621
+D General Purpose Digital Isolator 2500Vrms 2 Channel 150Mbps
+K Isolator, 2,5kV, SOIC-8
+F http://www.silabs.com/documents/public/data-sheets/si861x-2x-datasheet.pdf
+$ENDCMP
+#
+$CMP Si8662
+D General Purpose Digital Isolator 2500Vrms 6 Channel 150Mbps
+K Isolator, 2,5kV, SOIC-16
+F https://www.silabs.com/documents/public/data-sheets/Si866x.pdf
+$ENDCMP
+#
+#End Doc Library

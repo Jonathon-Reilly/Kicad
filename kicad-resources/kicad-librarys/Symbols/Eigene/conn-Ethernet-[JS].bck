@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RHJSE-5380
+D RJ45 Jack Modular Connector 8p8c  90° Angle (Right) Shielded, EMI Finger 
+K RJ45 amphenol 
+F https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJHSE538X.pdf
+$ENDCMP
+#
+$CMP SI-50154-F
+D RJ45 with transformer + leds
+K RJ45 Magjack Stewart Connector SI-50154-F
+F http://belfuse.com/pdfs/SI-50154-F.pdf
+$ENDCMP
+#
+#End Doc Library

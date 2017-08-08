@@ -1,0 +1,10 @@
+Linux make instructions
+
+This should work for most versions of Linux but I tried it under Ubuntu
+
+1) Create a directory (i.e. RenumKiCadPCB) and extract all the archive files into it. 
+2) Delete RenumKiCadPCB.exe (the Windows executable)
+3) Type make RenumKiCadPCB
+4) You should now have an executable called RenumKiCadPCB. Under Ubuntu it is already executable.
+5) Execute as ./RenumKiCadPCB
+

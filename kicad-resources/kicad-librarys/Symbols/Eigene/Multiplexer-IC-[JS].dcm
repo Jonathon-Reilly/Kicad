@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC(T)4052
+D 4 channel, Analog Multiplexer, NXP
+K Analog Multiplexer NXP
+F http://www.nxp.com/documents/data_sheet/74HC_HCT4052.pdf
+$ENDCMP
+#
+#End Doc Library

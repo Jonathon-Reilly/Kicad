@@ -1,0 +1,13 @@
+# timestamp | duration | file | instruction | dir | modtime | etag | size | fileId | status | errorString | http result code | other size | other modtime | other etag | other fileId | other instruction
+#=#=#=# Syncrun started 2017-08-07T14:52:36 until 2017-08-07T14:53:45 (69604 msec)
+#=#=#=# Syncrun started 2017-08-07T16:54:11 until 2017-08-07T16:54:13 (2010 msec)
+#=#=#=# Syncrun started 2017-08-07T18:54:41 until 2017-08-07T18:54:44 (3031 msec)
+#=#=#=# Syncrun started 2017-08-07T20:55:11 until 2017-08-07T20:55:13 (2077 msec)
+#=#=#=# Syncrun started 2017-08-07T22:55:41 until 2017-08-07T22:55:43 (2035 msec)
+#=#=#=# Syncrun started 2017-08-08T00:56:11 until 2017-08-08T00:56:13 (1959 msec)
+#=#=#=# Syncrun started 2017-08-08T02:56:41 until 2017-08-08T02:56:43 (2054 msec)
+#=#=#=# Syncrun started 2017-08-08T04:57:11 until 2017-08-08T04:57:13 (1986 msec)
+#=#=#=# Syncrun started 2017-08-08T06:57:41 until 2017-08-08T06:57:43 (2001 msec)
+#=#=#=# Syncrun started 2017-08-08T08:10:36 until 2017-08-08T08:10:40 (4108 msec)
+06:10:38|2044|README.md|INST_NEW|Up|1502172634||8||4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun started 2017-08-08T08:11:42 until 2017-08-08T08:11:44 (2007 msec)

@@ -1,0 +1,62 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACS723
+D Current sensor
+K Current sensor; Allegro
+F http://www.allegromicro.com/~/media/Files/Datasheets/ACS723-Datasheet.ashx?la=en
+$ENDCMP
+#
+$CMP ADXL375
+D Accelerometer X, Y, Z Axis ±200g 0.05Hz ~ 1.6kHz 14-LGA (3x5) 
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL375.pdf
+$ENDCMP
+#
+$CMP MAX31855EASA
+D Cold Junction E-type Termocouple Interface, SPI, SO8
+K Cold Junction Termocouple Interface SPI
+F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
+$CMP MAX31855JASA
+D Cold Junction J-type Termocouple Interface, SPI, SO8
+K Cold Junction Termocouple Interface SPI
+F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
+$CMP MAX31855KASA
+D Cold Junction K-type Termocouple Interface, SPI, SO8
+K Cold Junction Termocouple Interface SPI
+F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
+$CMP MAX31855NASA
+D Cold Junction N-type Termocouple Interface, SPI, SO8
+K Cold Junction Termocouple Interface SPI
+F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
+$CMP MAX31855RASA
+D Cold Junction R-type Termocouple Interface, SPI, SO8
+K Cold Junction Termocouple Interface SPI
+F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
+$CMP MAX31855SASA
+D Cold Junction S-type Termocouple Interface, SPI, SO8
+K Cold Junction Termocouple Interface SPI
+F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
+$CMP MAX31855TASA
+D Cold Junction T-type Termocouple Interface, SPI, SO8
+K Cold Junction Termocouple Interface SPI
+F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
+$CMP MPU-9250
+D Accelerometer, Gyroscope, Magnetometer, 3 Axis Sensor I²C, SPI Output
+K Accelerometer, Gyroscope, Magnetometer, 3 Axis Sensor I²C, SPI Output
+F https://store.invensense.com/datasheets/invensense/MPU9250REV1.0.pdf
+$ENDCMP
+#
+#End Doc Library

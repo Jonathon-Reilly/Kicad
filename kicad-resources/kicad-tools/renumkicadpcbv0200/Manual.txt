@@ -1,0 +1,94 @@
+﻿This program automatically renumbers a KiCad PCB according to various rules (see options below).
+It then back-annotates the renumbering scheme into the schematic hierarchy.
+
+This makes finding components on the PCB very easy.
+
+Note:
+V0.2 has a rudimentary menu interface as an option. Some command line options have changed so
+they make more sense.
+
+V0.2 was developed under MSYS on Windows so it is standalone (no DLL required). It has been tested on Ubuntu Linux.
+
+Instructions
+1) Archive your KiCad project (just in case)
+2) Verify and record/correct any schematic or DRC PCB errors
+3) Run this program (RenumKiCadPCB)
+4) Type in the input file name and set any other options. The maximum file name is 2048 characters 
+   and if it contains spaces (i.e. this is a file) you probably need to surround it with ""
+5) Open the project and create a netlist
+6) Open the PCB and import the netlist 
+	**** The first time you do this PCBNew will recreate the connectivity database
+7) Run DRC and verify there are no new error, no connects, etc.
+
+								****** KNOWN ISSUE ****** 
+Due to abug in KiCad PCBNew ([Bug 1609401] Re: PCBnew fails to properly import netlist after changing 
+annotation with pours see https://bugs.launchpad.net/kicad/+bug/1609401) 
+
+If RenumKiCadPCB is run on a project with copper pours and a schematic netlist is created and imported
+into PCBNew errors can occur in the netlist import and subsequent DRC. 
+
+This happens even without using RenumKiCadPCB: sometimes after changing reference designations on 
+PCB and eeSchema if you then generate a netlist and re-import it into PCBNew there may be netlist 
+errors and DRC errors if the board has copper pours.
+
+The fix is simple. Type 'B' and the pours will regenerate except where there are errors where they
+appear hatched. Note the rats nest netlist name in the hatched error zone. Edit the zone (hit 'E' 
+near a zone edge) and change the pour net to the rats net netlist name. (the rats nest name is usually
+near the top of the selection window). Type 'B' again, and the pour will fill. Run DRC and the errors 
+are gone.
+	
+I have filed a bug report with the KiCad developers regarding this issue.
+
+**************************************************************************************************
+
+
+RenumKiCadPCB Options 
+
+V0.2 and after works on as a command line tool or a rudimentary menu based user interface.
+
+Simply run RenumKiCadPCB and type in the input file at the prompt. When all the parameters are correct,
+type "r" to run.
+
+To use as a command line tool a typical invocation is
+
+RenumberKiCadPCB -iRenumtest
+
+The only required parameter is the input file (if you don't enter an imput file it will drop into menu mode)
+
+-iInfile		The Input file names (infile.kicad_pcb,  infile.sch) (required)
+		Infile is renamed infileRenumBack.kicad_pcb, infileRenumBack.sch
+
+These are optional parameters:
+-fs		Front sort direction																
+		-fs[1ST][2ND] where [1ST or [2ND] are TB (top to bottom) or LR (left to right		
+		DEFAULT is fsTBLR (top to bottom, left to right)
+		
+-bs		Bottom sort direction same arguments as -fs											
+		DEFAULT is bsTBRL (top to bottom, right to left)									
+		
+-j		Set the Jog or the variability (+/-) between when a location is the same 			
+		(i.e 0.1 and 0.15 are the same if jog is 0.5. –j0.1 means 0.1mm jog. 
+		Default is 1mm.
+		
+-fp		Top refdes prepend string (i.e. tpT_ means R1 will be T_R1 if it is on top side		
+		DEFAULT is empty																	
+		
+-bp		Bottom refdes prepend string (i.e. bpB_ means R2 will be B_R2 if it is on bottom side
+		DEFAULT is empty																	
+		
+-fr		Top refdes start value (i.e. fp100 means parts will start at 100 on the front side	
+		DEFAULT is 1																		
+		
+-br		Bottom refdes start value (i.e. br100 means R2 will be R102 if it is on bottom side
+		DEFAULT is to continue from the last front refdes								
+		
+-m		Sort on module location. Default is sort on Ref Des Location						
+
+-y		No Y/N question asked																
+
+-c		Show change plan but don't update files												
+
+-v		Verbose mode. Default is off														
+
+-?		Print out command options
+

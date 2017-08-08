@@ -1,0 +1,167 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A4988
+D Stepper Motor Driver IC, 2A
+K Allegro, A4988, Stepper Driver, 2A
+F http://www.allegromicro.com/en/Products/Part_Numbers/4988/4988.pdf
+$ENDCMP
+#
+$CMP AN431
+D Low-Voltage (2.5-V) Adjustable Shunt Regulator
+K Shunt Reference, 2.5V,  100mA
+F http://www.diodes.com/_files/datasheets/AN431.pdf
+$ENDCMP
+#
+$CMP AP2204-5.0
+D 150mA, Low Dropout Voltage Regulator, 5.0V positive fixed output, SOT-23 package
+K ldo linear fixed positive
+F http://www.diodes.com/_files/datasheets/AP2204.pdf
+$ENDCMP
+#
+$CMP DSN_mini-360
+D DSN mini 360   DCDC
+K switching regulator DCDC 5V
+$ENDCMP
+#
+$CMP IR4427
+D DUAL LOW SiDE DRIVER
+K driver, Mosfet driver,
+F http://www.irf.com/product-info/datasheets/data/ir4426.pdf
+$ENDCMP
+#
+$CMP LD2980
+D 50 mA Low Dropout Voltage Regulator
+K LDO Regulator
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/f2/6e/04/e2/45/e7/48/ac/CD00001636.pdf/files/CD00001636.pdf/jcr:content/translations/en.CD00001636.pdf
+$ENDCMP
+#
+$CMP LM2596S_DC-DC_pcb
+D LM2596S  DCDC
+K switching regulator DCDC 5V
+$ENDCMP
+#
+$CMP LM5050-1
+D Single Ideal Diode Diode, Ti, SOT-23-6
+K Ideal Diode Controller
+F http://www.ti.com/lit/ds/symlink/lm5050-1.pdf
+$ENDCMP
+#
+$CMP LMV431
+D Low-Voltage (1.24-V) Adjustable Precision Shunt Regulator
+K Shunt Reference, 1.24V,  30mA
+F http://www.ti.com/lit/ds/symlink/lmv431a.pdf
+$ENDCMP
+#
+$CMP LTC4236
+D Dual Ideal Diode and Singel Hot Swap controller with current Monitor
+K Dual ideal diode, Hot swap, Current Monitor, Linear
+F http://cds.linear.com/docs/en/datasheet/4236f.pdf
+$ENDCMP
+#
+$CMP LTC4352
+D Single Ideal Diode controller for N-channel FET
+K ideal Diode, 2,9 - 18 V
+F http://cds.linear.com/docs/en/datasheet/4352fa.pdf
+$ENDCMP
+#
+$CMP LTC4353
+D Dual Ideal Diode Controler
+K  Ideal; Diode;
+F http://cds.linear.com/docs/en/datasheet/4353f.pdf
+$ENDCMP
+#
+$CMP MCP1754ST-5002E/MB
+D MCP1754ST, Fixed 150mA Low Dropout Voltage Regulator, Positive
+K REGULATOR LDO
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20002276C.pdf
+$ENDCMP
+#
+$CMP MCP1804T
+D 150 mA Low Dropout Voltage Regulator
+K LDO Regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22200C.pdf
+$ENDCMP
+#
+$CMP NSI45020
+D Constant Current Regulator,delta 23V, 45V max
+K Constant Current Regulator, SOD123
+F http://www.onsemi.com/pub_link/Collateral/NSI45020-D.PDF
+$ENDCMP
+#
+$CMP R-78B5.0-1.0
+D Recom R-78B5.0-1.0L DCDC
+K switching regulator DCDC 5V
+F http://www.recom-power.com/pdf/Innoline/R-78Bxx-1.0_L.pdf
+$ENDCMP
+#
+$CMP RAC02-12SC
+D PCB AC/DC-Converter
+K PCB,AC/DC-Converter
+F http://files.voelkner.de/400000-424999/401788-da-01-en-RECOM_RAC02_12SC_NETZTEILMODUL.pdf
+$ENDCMP
+#
+$CMP RT8292B
+D DC-DC  2A 23V Synchronous Step-Down
+F http://www.richtek.com/assets/product_file/RT8292B/DS8292B-03.pdf
+$ENDCMP
+#
+$CMP SX-1308
+D Sx-1308   DCDC
+K switching regulator DCDC 17V
+$ENDCMP
+#
+$CMP TC1014
+D 50 mA Low Dropout Voltage Regulator
+K LDO Regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21335e.pdf
+$ENDCMP
+#
+$CMP TMC2208
+D Stepper Motor Driver IC, 2A,5-36V
+K Trinamic,TMC2208,Stepper Driver
+F http://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC220x_TMC222x_Datasheet.pdf
+$ENDCMP
+#
+$CMP TPS40304
+D 3V to 20V Wide Input Synchronous Buck Controller
+K Step Down, DC-DC Controller, 
+F http://www.ti.com/lit/ds/symlink/tps40304.pdf
+$ENDCMP
+#
+$CMP TPS54302
+D Synchronous Step-down DC-DC 3A 28V Ti SOT-23-6
+K Synchronous, Step-down, DC-DC, 3A, 28V
+F http://www.ti.com/lit/ds/symlink/tps54302.pdf
+$ENDCMP
+#
+$CMP TPS560200D
+D SOT-23-5, High-Efficiency Step-Down DC-DC Converter, Adjustable
+K TPS56200DBV Step-Down DC-DC Converter SOT-23-5
+F http://www.ti.com/lit/ds/symlink/tps560200.pdf
+$ENDCMP
+#
+$CMP TPS92640
+D Constant current LED driver, Synchronous Buck N-channel, Shunt FET option
+K LED Driver, Synchronous, Buck,
+F http://www.ti.com/lit/ds/symlink/tps92640.pdf
+$ENDCMP
+#
+$CMP TPS92641
+D Constant current LED driver, Synchronous Buck N-channel, Shunt FET option
+K LED Driver, Synchronous, Buck,
+F http://www.ti.com/lit/ds/symlink/tps92640.pdf
+$ENDCMP
+#
+$CMP ZXGD3003E6
+D Gate Driver, 5A peak, SOT23-6
+K Gate Driver, 5A , SOT23-6
+F http://www.diodes.com/_files/datasheets/ZXGD3003E6.pdf
+$ENDCMP
+#
+$CMP ZXGD3009DY
+D Gate Driver, 1A ,40V , SOT363
+K Gate Driver, 1A , SOT363
+F http://www.diodes.com/_files/datasheets/ZXGD3009DY.pdf
+$ENDCMP
+#
+#End Doc Library

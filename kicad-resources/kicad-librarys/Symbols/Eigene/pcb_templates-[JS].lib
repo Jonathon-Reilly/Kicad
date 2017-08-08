@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# Mountpoint
+#
+DEF Mountpoint U 0 40 Y Y 1 F N
+F0 "U" 0 200 60 H V C CNN
+F1 "Mountpoint" 0 120 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ *Mountpoint*
+$ENDFPLIST
+DRAW
+S -80 60 80 -60 0 1 0 f
+X ~ ~ 0 -100 39 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# PCB_CNC-NG
+#
+DEF PCB_CNC-NG U 0 40 Y Y 1 F N
+F0 "U" 0 60 60 H V C CNN
+F1 "PCB_CNC-NG" 0 -50 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ PCB_CNC-NG*
+$ENDFPLIST
+DRAW
+S -310 120 310 -130 0 1 0 f
+ENDDRAW
+ENDDEF
+#
+#End Library

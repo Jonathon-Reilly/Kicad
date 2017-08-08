@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRF7389
+D N + P channel MOSFET, SO-8 footprint, N 7A3  P 5A3
+K N + P channel, Mosfet, 
+F http://www.irf.com/product-info/datasheets/data/irf7389pbf.pdf
+$ENDCMP
+#
+$CMP SRP1265A
+D inductor, Bourns SRP1265A, shielded
+K inductor
+F https://www.bourns.com/data/global/pdfs/SRP1265A.pdf
+$ENDCMP
+#
+#End Doc Library
