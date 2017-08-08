@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP Pixhawk_2_Cube_80-Pin_Header
-D Pixhawk 2  Cube  80Pin  DF17 modular schematic symbol
-K Pixhawk 2 , Cube
-F https://github.com/PX4/Hardware/blob/master/FMUv3_REV_D/Schematic%20Print/Schematic%20Prints.PDF
-$ENDCMP
-#
-#End Doc Library

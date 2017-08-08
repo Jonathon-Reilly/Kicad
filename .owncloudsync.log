@@ -11,3 +11,56 @@
 #=#=#=# Syncrun started 2017-08-08T08:10:36 until 2017-08-08T08:10:40 (4108 msec)
 06:10:38|2044|README.md|INST_NEW|Up|1502172634||8||4||201|0|0|||INST_NONE|
 #=#=#=# Syncrun started 2017-08-08T08:11:42 until 2017-08-08T08:11:44 (2007 msec)
+#=#=#=# Syncrun started 2017-08-08T09:01:50 until 2017-08-08T09:01:55 (5129 msec)
+|0|kicad-resources|INST_SYNC|Up|1487747471||4096||4||0|0|1502110289|59886251be0b0|00006469oczobpympsb1|INST_NONE|
+|0|kicad-resources/kipart-librarys|INST_SYNC|Up|1501589406||4096||4||0|0|1501593230|59807e8ed6084|00065788oczobpympsb1|INST_NONE|
+|0|kicad-resources/kipart-librarys/Pixhawk_2-Cube|INST_SYNC|Up|1502175707||4096||4||0|0|1501593230|59807e8ed6084|00264543oczobpympsb1|INST_NONE|
+07:01:52|3070|kicad-resources/kipart-librarys/Pixhawk_2-Cube/Pixhawk2.pdf|INST_NEW|Up|1502175309||1948335||4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun started 2017-08-08T09:02:42 until 2017-08-08T09:02:44 (2493 msec)
+#=#=#=# Syncrun started 2017-08-08T09:03:44 until 2017-08-08T09:03:48 (3342 msec)
+|0|kicad-resources|INST_SYNC|Up|1487747471||4096||4||0|0|1502175714|598961e2c3ef5|00006469oczobpympsb1|INST_NONE|
+|0|kicad-resources/kipart-librarys|INST_SYNC|Up|1501589406||4096||4||0|0|1502175714|598961e2c3ef5|00065788oczobpympsb1|INST_NONE|
+|0|kicad-resources/kipart-librarys/Pixhawk_2-Cube|INST_SYNC|Up|1502175822||4096||4||0|0|1502175714|598961e2c3ef5|00264543oczobpympsb1|INST_NONE|
+07:03:46|1398|kicad-resources/kipart-librarys/Pixhawk_2-Cube/Pixhawk2.pdf|INST_RENAME|Up|1502175309|f2600cfce647fdcaeb344c9b716c9b1a|1948335|00275015oczobpympsb1|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun started 2017-08-08T09:04:42 until 2017-08-08T09:04:44 (2509 msec)
+#=#=#=# Syncrun started 2017-08-08T09:06:26 until 2017-08-08T09:06:29 (3048 msec)
+07:06:28|1044|kicad-resources/kicad-librarys/Atomic-parts|INST_NEW|Up|1502175984||4096||4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun started 2017-08-08T09:06:33 until 2017-08-08T09:06:38 (5786 msec)
+07:06:35|3365|kicad-resources/kicad-librarys/Atomic-parts/Pixhawk_2-Cube|INST_RENAME|Up|1502175827|59896253d4ce6|0|00264543oczobpympsb1|4||201|0|0|||INST_NONE|
+|0|kicad-resources/kicad-librarys/Atomic-parts/Pixhawk_2-Cube/Pixhawk_2-Cube.par|INST_RENAME|Up|1501590489|c00678d887bbcfb065048a671b95d96f|862208|00264542oczobpympsb1|4||0|862208|1501590489|||INST_NONE|
+|0|kicad-resources/kicad-librarys/Atomic-parts/Pixhawk_2-Cube/Pixhawk_2-Cube.pretty|INST_RENAME|Up|1501593230|59807e8ed6084|0|00264561oczobpympsb1|4||0|4096|1501593225|||INST_NONE|
+|0|kicad-resources/kicad-librarys/Atomic-parts/Pixhawk_2-Cube/Pixhawk_2-Cube.pretty/Pixhawk-2_Cube.kicad_mod|INST_RENAME|Up|1501593225|252eaf02b6620bcab2d9aa6a3826bfb7|13882|00264565oczobpympsb1|4||0|13882|1501593225|||INST_NONE|
+|0|kicad-resources/kicad-librarys/Atomic-parts/Pixhawk_2-Cube/Pixhawk_2-Cube.stp|INST_RENAME|Up|1501590451|49f8d5882ad6dfa5889e60cc90f2f77c|443233|00264541oczobpympsb1|4||0|443233|1501590451|||INST_NONE|
+|0|kicad-resources/kicad-librarys/Atomic-parts/Pixhawk_2-Cube/Pixhawk_2.pdf|INST_RENAME|Up|1502175309|f2600cfce647fdcaeb344c9b716c9b1a|1948335|00275015oczobpympsb1|4||0|1948335|1502175309|||INST_NONE|
+|0|kicad-resources/kicad-librarys/Atomic-parts/Pixhawk_2-Cube/Pixhawk_2_Cube.csv|INST_RENAME|Up|1501569862|0844a8dc6dd004c0bf5789d0a893bf45|2345|00264238oczobpympsb1|4||0|2345|1501569862|||INST_NONE|
+|0|kicad-resources/kicad-librarys/Atomic-parts/Pixhawk_2-Cube/Pixhawk_2_Cube.dcm|INST_RENAME|Up|1501592816|b433e987799ae6e695368c11141ac4c7|266|00264569oczobpympsb1|4||0|266|1501592816|||INST_NONE|
+|0|kicad-resources/kicad-librarys/Atomic-parts/Pixhawk_2-Cube/Pixhawk_2_Cube.lib|INST_RENAME|Up|1501592816|a8cc42518736558764947af5d5b3f942|4017|00264570oczobpympsb1|4||0|4017|1501592816|||INST_NONE|
+|0|kicad-resources/kicad-librarys/Atomic-parts/Pixhawk_2-Cube/Pixhawk_2_Cube.ods|INST_RENAME|Up|1501569849|141a72374912118393f116729452bae0|15175|00264205oczobpympsb1|4||0|15175|1501569849|||INST_NONE|
+|0|kicad-resources/kicad-librarys/Atomic-parts/Pixhawk_2-Cube/Pixhawk_2_Cube_commented.ods|INST_RENAME|Up|1501569485|19e0ffbf33ccef575a9ede205ad36cf8|15918|00264292oczobpympsb1|4||0|15918|1501569485|||INST_NONE|
+#=#=#=# Syncrun started 2017-08-08T09:07:11 until 2017-08-08T09:07:14 (2736 msec)
+#=#=#=# Syncrun started 2017-08-08T09:28:48 until 2017-08-08T09:28:52 (3470 msec)
+|0|kicad-resources|INST_SYNC|Up|1487747471||4096||4||0|0|1502175996|598962fd2137d|00006469oczobpympsb1|INST_NONE|
+|0|kicad-resources/kicad-librarys|INST_SYNC|Up|1502175984||4096||4||0|0|1502175996|598962fd2137d|00006470oczobpympsb1|INST_NONE|
+|0|kicad-resources/kicad-librarys/Footprints|INST_SYNC|Up|1477972114||4096||4||0|0|1502110286|5988625012c37|00010673oczobpympsb1|INST_NONE|
+|0|kicad-resources/kicad-librarys/Footprints/Eigene|INST_SYNC|Up|1499243982||4096||4||0|0|1502105836|598850eddaa71|00010675oczobpympsb1|INST_NONE|
+|0|kicad-resources/kicad-librarys/Footprints/Eigene/General_smd-[JS].pretty|INST_SYNC|Up|1502177326||4096||4||0|0|1501157184|5979d740c9565|00029644oczobpympsb1|INST_NONE|
+07:28:50|1388|kicad-resources/kicad-librarys/Footprints/Eigene/General_smd-[JS].pretty/20-pin_tht-pads.kicad_mod|INST_NEW|Up|1502177326||1096||4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun started 2017-08-08T09:29:41 until 2017-08-08T09:29:44 (3033 msec)
+#=#=#=# Syncrun started 2017-08-08T09:30:49 until 2017-08-08T09:30:53 (3618 msec)
+|0|kicad-resources|INST_SYNC|Up|1487747471||4096||4||0|0|1502177331|59896833cf336|00006469oczobpympsb1|INST_NONE|
+|0|kicad-resources/kicad-librarys|INST_SYNC|Up|1502175984||4096||4||0|0|1502177331|59896833cf336|00006470oczobpympsb1|INST_NONE|
+|0|kicad-resources/kicad-librarys/Footprints|INST_SYNC|Up|1477972114||4096||4||0|0|1502177331|59896833cf336|00010673oczobpympsb1|INST_NONE|
+|0|kicad-resources/kicad-librarys/Footprints/Eigene|INST_SYNC|Up|1499243982||4096||4||0|0|1502177331|59896833cf336|00010675oczobpympsb1|INST_NONE|
+|0|kicad-resources/kicad-librarys/Footprints/Eigene/General_smd-[JS].pretty|INST_SYNC|Up|1502177447||4096||4||0|0|1502177331|59896833cf336|00029644oczobpympsb1|INST_NONE|
+07:30:51|1564|kicad-resources/kicad-librarys/Footprints/Eigene/General_smd-[JS].pretty/20-pin_tht-pads.kicad_mod|INST_SYNC|Up|1502177447||1943||4||204|1096|1502177326|6bdd36166e756703ab5c1cd886d396a0|00275024oczobpympsb1|INST_NONE|
+#=#=#=# Syncrun started 2017-08-08T09:30:59 until 2017-08-08T09:31:03 (4838 msec)
+07:31:02|1398|kicad-resources/kicad-librarys/Footprints/Eigene/General_smd-[JS].pretty/20-pin_tht-pads.kicad_mod|INST_SYNC|Up|1502177457||1943||4||204|1943|1502177447|2618cf3a63570651513bab933942e2b8|00275024oczobpympsb1|INST_NONE|
+#=#=#=# Syncrun started 2017-08-08T09:31:42 until 2017-08-08T09:31:45 (2994 msec)
+#=#=#=# Syncrun started 2017-08-08T09:32:20 until 2017-08-08T09:32:23 (3301 msec)
+|0|kicad-resources|INST_SYNC|Up|1487747471||4096||4||0|0|1502177463|598968b7a67b1|00006469oczobpympsb1|INST_NONE|
+|0|kicad-resources/kicad-librarys|INST_SYNC|Up|1502175984||4096||4||0|0|1502177463|598968b7a67b1|00006470oczobpympsb1|INST_NONE|
+|0|kicad-resources/kicad-librarys/Footprints|INST_SYNC|Up|1477972114||4096||4||0|0|1502177463|598968b7a67b1|00010673oczobpympsb1|INST_NONE|
+|0|kicad-resources/kicad-librarys/Footprints/Eigene|INST_SYNC|Up|1499243982||4096||4||0|0|1502177463|598968b7a67b1|00010675oczobpympsb1|INST_NONE|
+|0|kicad-resources/kicad-librarys/Footprints/Eigene/General_smd-[JS].pretty|INST_SYNC|Up|1502177538||4096||4||0|0|1502177463|598968b7a67b1|00029644oczobpympsb1|INST_NONE|
+07:32:22|1326|kicad-resources/kicad-librarys/Footprints/Eigene/General_smd-[JS].pretty/20-pin_tht-pads.kicad_mod|INST_SYNC|Up|1502177538||1934||4||204|1943|1502177457|ff18c7a8021dba9b164bbe8415115392|00275024oczobpympsb1|INST_NONE|
+#=#=#=# Syncrun started 2017-08-08T09:33:12 until 2017-08-08T09:33:14 (2835 msec)
