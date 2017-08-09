@@ -527,6 +527,18 @@ K Dual DAC 1ch 12bit SPI
 F http://ww1.microchip.com/downloads/en/devicedoc/21897a.pdf
 $ENDCMP
 #
+$CMP NCP1200D
+D SMPS Controller, AC-DC, SOIC-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1200-D.PDF
+$ENDCMP
+#
+$CMP NCP1200P
+D SMPS Controller, AC-DC, PDIP-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1200-D.PDF
+$ENDCMP
+#
 $CMP PT2399
 D Echo Processor IC
 K CMOS ADC DAC 44K Digital processing VCO
