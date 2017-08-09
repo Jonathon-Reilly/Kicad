@@ -7,9 +7,9 @@ kicad_fplib_last_download_dir=C:/Kicad
 kicad_fplib_url=https:/github.com/KiCad
 [EnvironmentVariables]
 KIATOMIC=C:/Kicad/kicad-resources/kicad-librarys/Atomic-parts
-KICAD_PTEMPLATES=C:/Program Files/KiCad/share/kicad/template/
+KICAD_PTEMPLATES=C:/Program Files/KiCad/share/kicad/template
 KICAD_SYMBOL_DIR=C:/Kicad/kicad-resources/kicad-librarys/Symbols
 KIGITHUB=https:/github.com/KiCad
 KISYS3DMOD=C:/Kicad/kicad-resources/kicad-librarys/3D
 KISYSMOD=C:/Kicad/kicad-resources/kicad-librarys/Footprints
-KISYSMOD2=C:/Kicad/kicad-resources/kicad-librarys/Footprints
+

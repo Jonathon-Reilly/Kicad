@@ -105,7 +105,7 @@
   (lib (name w_switch)(type KiCad)(uri "$(KISYSMOD)/Importierte/walter/w_switch.pretty")(options "")(descr ""))
   (lib (name w_to)(type KiCad)(uri "$(KISYSMOD)/Importierte/walter/w_to.pretty")(options "")(descr ""))
   (lib (name w_vacuum)(type KiCad)(uri "$(KISYSMOD)/Importierte/walter/w_vacuum.pretty")(options "")(descr ""))
-  (lib (name Pixhawk_2-Cube)(type KiCad)(uri C:/Kicad/kicad-resources/kicad-librarys/Atomic-parts/Pixhawk_2-Cube/Pixhawk_2-Cube.pretty")(options "")(descr ""))
+  (lib (name Pixhawk_2-Cube)(type KiCad)(uri C:/Kicad/kicad-resources/kicad-librarys/Atomic-parts/Pixhawk_2-Cube/Pixhawk_2-Cube.pretty)(options "")(descr ""))
   (lib (name Air_Coils_SML_NEOSID)(type KiCad)(uri "$(KISYSMOD)/Github/Air_Coils_SML_NEOSID.pretty")(options "")(descr ""))
   (lib (name Battery_Holders)(type KiCad)(uri "$(KISYSMOD)/Github/Battery_Holders.pretty")(options "")(descr ""))
   (lib (name Buttons_Switches_SMD)(type KiCad)(uri "$(KISYSMOD)/Github/Buttons_Switches_SMD.pretty")(options "")(descr ""))
