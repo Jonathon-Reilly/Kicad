@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +5V_Cube
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP +5V_Sensors
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP +5V_Servo
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP GND_Cube
+D GROUND power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP GND_Sensors
+D GROUND power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP GND_Servo
+D GROUND power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+#End Doc Library
