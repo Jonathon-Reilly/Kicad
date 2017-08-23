@@ -294,3 +294,46 @@
 14:55:03|3154|kicad-resources/kicad-librarys/Symbols/Eigene/UAV-Modules-[JS].bck|INST_SYNC|Up|1503327282||461||4||204|461|1503327266|d41e65152646fe72c1aeb91e76cb346d|00308505oczobpympsb1|INST_NONE|
 14:55:03|3253|kicad-resources/kicad-librarys/Symbols/Eigene/UAV-Modules-[JS].dcm|INST_SYNC|Up|1503327297||461||4||204|461|1503327282|835084f9465adb4eb61764f60705305e|00308502oczobpympsb1|INST_NONE|
 14:55:05|4096|kicad-resources/kicad-librarys/Symbols/Eigene/UAV-Modules-[JS].lib|INST_SYNC|Up|1503327297||4923||4||204|4917|1503327282|e8ee0988c5fbb1eeec5cb7e4df36124a|00133228oczobpympsb1|INST_NONE|
+#=#=#=# Syncrun started 2017-08-21T16:56:08 until 2017-08-21T16:56:11 (3570 msec)
+#=#=#=# Syncrun started 2017-08-21T17:19:11 until 2017-08-21T17:19:13 (2310 msec)
+#=#=#=# Syncrun started 2017-08-21T19:19:37 until 2017-08-21T19:19:39 (2130 msec)
+#=#=#=# Syncrun started 2017-08-21T21:20:07 until 2017-08-21T21:20:11 (3912 msec)
+#=#=#=# Syncrun started 2017-08-21T23:20:37 until 2017-08-21T23:20:39 (2347 msec)
+#=#=#=# Syncrun started 2017-08-22T01:21:07 until 2017-08-22T01:21:09 (2007 msec)
+#=#=#=# Syncrun started 2017-08-22T03:21:37 until 2017-08-22T03:21:39 (2027 msec)
+#=#=#=# Syncrun started 2017-08-22T05:22:07 until 2017-08-22T05:22:09 (1950 msec)
+#=#=#=# Syncrun started 2017-08-22T07:22:37 until 2017-08-22T07:22:39 (1987 msec)
+#=#=#=# Syncrun started 2017-08-22T08:55:13 until 2017-08-22T08:55:15 (1958 msec)
+#=#=#=# Syncrun started 2017-08-22T10:55:37 until 2017-08-22T10:55:40 (3061 msec)
+#=#=#=# Syncrun started 2017-08-22T12:56:07 until 2017-08-22T12:56:10 (2553 msec)
+#=#=#=# Syncrun started 2017-08-22T14:56:37 until 2017-08-22T14:56:39 (2088 msec)
+#=#=#=# Syncrun started 2017-08-22T16:57:07 until 2017-08-22T16:57:09 (1995 msec)
+#=#=#=# Syncrun started 2017-08-22T18:57:37 until 2017-08-22T18:57:39 (2143 msec)
+#=#=#=# Syncrun started 2017-08-22T20:58:07 until 2017-08-22T20:58:09 (2099 msec)
+#=#=#=# Syncrun started 2017-08-22T22:58:37 until 2017-08-22T22:58:39 (2090 msec)
+#=#=#=# Syncrun started 2017-08-23T00:59:07 until 2017-08-23T00:59:10 (3207 msec)
+#=#=#=# Syncrun started 2017-08-23T02:59:37 until 2017-08-23T02:59:39 (2063 msec)
+#=#=#=# Syncrun started 2017-08-23T05:00:07 until 2017-08-23T05:00:09 (2076 msec)
+#=#=#=# Syncrun started 2017-08-23T07:00:37 until 2017-08-23T07:00:39 (1980 msec)
+#=#=#=# Syncrun started 2017-08-23T09:01:07 until 2017-08-23T09:01:09 (2367 msec)
+#=#=#=# Syncrun started 2017-08-23T11:01:37 until 2017-08-23T11:01:39 (2192 msec)
+#=#=#=# Syncrun started 2017-08-23T11:34:11 until 2017-08-23T11:34:15 (4087 msec)
+09:34:13|1842|kicad-resources/kicad-librarys/Footprints/Eigene/stencil-holes-[JS].pretty/RTW0024A.kicad_mod|INST_REMOVE|Up|1478075743|72d16c9e2a17caf19b44e040407a7209|2816|00270492oczobpympsb1|4||204|0|0|||INST_NONE|
+#=#=#=# Syncrun started 2017-08-23T11:35:07 until 2017-08-23T11:35:11 (3274 msec)
+#=#=#=# Syncrun started 2017-08-23T11:36:51 until 2017-08-23T11:36:55 (3906 msec)
+|0|kicad-resources|INST_SYNC|Up|1487747471||4096||4||0|0|1503480855|599d4c1748c18|00006469oczobpympsb1|INST_NONE|
+|0|kicad-resources/kicad-librarys|INST_SYNC|Up|1502213248||4096||4||0|0|1503480855|599d4c1748c18|00006470oczobpympsb1|INST_NONE|
+|0|kicad-resources/kicad-librarys/Footprints|INST_SYNC|Up|1477972114||4096||4||0|0|1503480855|599d4c1748c18|00010673oczobpympsb1|INST_NONE|
+|0|kicad-resources/kicad-librarys/Footprints/Eigene|INST_SYNC|Up|1499243982||4096||4||0|0|1503480855|599d4c1748c18|00010675oczobpympsb1|INST_NONE|
+|0|kicad-resources/kicad-librarys/Footprints/Eigene/stencil-holes-[JS].pretty|INST_SYNC|Up|1503481009||4096||4||0|0|1503480855|599d4c1748c18|00137694oczobpympsb1|INST_NONE|
+09:36:53|1714|kicad-resources/kicad-librarys/Footprints/Eigene/stencil-holes-[JS].pretty/stencil_hole_3mm.kicad_mod|INST_SYNC|Up|1503481009||473||4||204|444|1501569023|935249bd1b7c0d634bce616ec77a7230|00264479oczobpympsb1|INST_NONE|
+#=#=#=# Syncrun started 2017-08-23T11:36:58 until 2017-08-23T11:37:03 (5065 msec)
+09:37:01|1729|kicad-resources/kicad-librarys/Atomic-parts/Pixhawk_2-Cube/Pixhawk_2.pdf|INST_REMOVE|Up|1502175309|f2600cfce647fdcaeb344c9b716c9b1a|1948335|00275015oczobpympsb1|4||204|0|0|||INST_NONE|
+#=#=#=# Syncrun started 2017-08-23T11:37:07 until 2017-08-23T11:37:11 (4217 msec)
+|0|kicad-resources/kicad-librarys/Footprints|INST_SYNC|Up|1477972114||4096||4||0|0|1503481014|599d4cb7319dc|00010673oczobpympsb1|INST_NONE|
+|0|kicad-resources/kicad-librarys/Footprints/Eigene|INST_SYNC|Up|1499243982||4096||4||0|0|1503481014|599d4cb7319dc|00010675oczobpympsb1|INST_NONE|
+|0|kicad-resources/kicad-librarys/Footprints/Eigene/stencil-holes-[JS].pretty|INST_SYNC|Up|1503481025||4096||4||0|0|1503481014|599d4cb7319dc|00137694oczobpympsb1|INST_NONE|
+09:37:10|1375|kicad-resources/kicad-librarys/Footprints/Eigene/stencil-holes-[JS].pretty/stencil_hole_3mm.kicad_mod|INST_SYNC|Up|1503481025||473||4||204|473|1503481009|0e3e3651b704bd954dc2f098696f622c|00264479oczobpympsb1|INST_NONE|
+#=#=#=# Syncrun started 2017-08-23T11:37:25 until 2017-08-23T11:37:30 (4760 msec)
+09:37:28|1486|kicad-resources/kicad-librarys/Footprints/Eigene/stencil-holes-[JS].pretty/stencil_hole_3mm_exempted.kicad_mod|INST_SYNC|Up|1503481043||505||4||204|505|1501569008|cd3be3aab5886b36af82478d9ccb5a23|00264111oczobpympsb1|INST_NONE|
+#=#=#=# Syncrun started 2017-08-23T11:38:08 until 2017-08-23T11:38:11 (3059 msec)
