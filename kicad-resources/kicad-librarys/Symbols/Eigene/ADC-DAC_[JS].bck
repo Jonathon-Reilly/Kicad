@@ -12,6 +12,12 @@ K ADC, 0-5V, LTC2450
 F http://cds.linear.com/docs/en/datasheet/2450fb.pdf
 $ENDCMP
 #
+$CMP LTC2451
+D 16 bit Single ended ADC, I2C, 30 SPS, 5V Vin, Linear Technology
+K ADC,16 bit, I2C
+F http://cds.linear.com/docs/en/datasheet/2451fg.pdf
+$ENDCMP
+#
 $CMP MCP3021
 D MCP3425A0T, Single Delta-Sigma 16bit Analog to Digital Converter, I2C Interface, SOT-23-6
 K Sigma-Delta ADC Converter 16bit I2C
