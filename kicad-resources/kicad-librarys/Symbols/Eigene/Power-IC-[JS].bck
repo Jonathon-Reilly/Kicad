@@ -89,7 +89,7 @@ F http://www.onsemi.com/pub_link/Collateral/NSI45020-D.PDF
 $ENDCMP
 #
 $CMP NXE1S0505MC
-D Isolated Module DC DC Converter 1 Output 5V 200mA 4.5V - 5.5V Input 
+D Isolated Module DC DC Converter 1 Output 5V 200mA 4.5V - 5.5V Input
 K Isolated, DC DC, 5V
 F http://power.murata.com/data/power/ncl/kdc_nxe1.pdf
 $ENDCMP
@@ -144,6 +144,12 @@ $CMP TPS560200D
 D SOT-23-5, High-Efficiency Step-Down DC-DC Converter, Adjustable
 K TPS56200DBV Step-Down DC-DC Converter SOT-23-5
 F http://www.ti.com/lit/ds/symlink/tps560200.pdf
+$ENDCMP
+#
+$CMP TPS79301
+D 200mA UltraLow-Noise, High-Precision, Fast RF, Low Drop-out Voltage Regualtor, Adjustable Output, SOT-23
+K LDO Voltage Regulator 200mA adjustable
+F https://media.digikey.com/pdf/Data%20Sheets/Texas%20Instruments%20PDFs/TPS793_Rev2015.pdf
 $ENDCMP
 #
 $CMP TPS92640

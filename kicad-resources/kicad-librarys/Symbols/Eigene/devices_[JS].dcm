@@ -5,4 +5,10 @@ D Snap-Switch
 K switch, 3-pos,snap
 $ENDCMP
 #
+$CMP Testpoint
+D Testpoint Harwin, SMD, Tin plated brass, 
+K Testpoint, SMD
+F https://cdn.harwin.com/pdfs/S1751.pdf
+$ENDCMP
+#
 #End Doc Library

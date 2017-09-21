@@ -25,6 +25,27 @@ X 3 3 500 -100 300 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# Testpoint
+#
+DEF ~Testpoint TP 0 40 Y Y 1 F N
+F0 "TP" 100 50 39 H V C CIN
+F1 "Testpoint" 150 50 39 H I C CNN
+F2 "Harwin-Testpoint-S1751" 0 -50 50 H I C CNN
+F3 "https://cdn.harwin.com/pdfs/S1751.pdf" 100 50 50 H I C CNN
+F4 "S1751-46R" 200 150 60 H I C CNN "manf#"
+F5 "952-1478-1-ND" 300 250 60 H I C CNN "digikey#"
+$FPLIST
+ TEST
+ TEST-*
+ TEST*
+ Harwin-Testpoint-S1751
+$ENDFPLIST
+DRAW
+C 0 80 30 0 1 10 F
+X ~ 1 0 0 50 U 0 39 1 1 P
+ENDDRAW
+ENDDEF
+#
 # dual_switch
 #
 DEF dual_switch U 0 40 Y Y 1 F N
