@@ -12,6 +12,12 @@ K Temperature Sensor, I2C, 11-bit,NXP,Over-temperature shutdown
 F http://www.nxp.com/documents/data_sheet/PCT2075.pdf
 $ENDCMP
 #
+$CMP TC72
+D Digital Temperature Sensor with SPI Interface, Microchip
+K Temperature sensor, SPI, 10 bit, MSOP-8
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21743B.pdf
+$ENDCMP
+#
 $CMP TC77
 D SPI TEMPERATURE SENSOR  SOT23-5 13b
 K SPI, Temperature

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM4140
+D LM4140 High Precision Low Noise Low Dropout Voltage Reference
+K Reference, low Noise,
+F http://www.ti.com/lit/ds/symlink/lm4140.pdf
+$ENDCMP
+#
+#End Doc Library
