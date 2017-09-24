@@ -138,12 +138,6 @@ K 8bit DAC 4CH
 F http://www.analog.com/static/imported-files/data_sheets/AD7225.pdf
 $ENDCMP
 #
-$CMP AD7225LR
-D Quad 8bit DAC, Separate Reference Voltage, SO-24
-K 8bit DAC 4CH
-F http://www.analog.com/static/imported-files/data_sheets/AD7225.pdf
-$ENDCMP
-#
 $CMP AD7226BRSZ
 D Quad 8bit DAC, 4 Channel, Single Reference Voltage, SSOP-20
 K 4CH DAC 8bit
