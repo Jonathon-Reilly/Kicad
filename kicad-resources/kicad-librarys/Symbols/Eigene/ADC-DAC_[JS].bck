@@ -7,15 +7,21 @@ F http://www.ti.com/lit/ds/symlink/ads1220.pdf
 $ENDCMP
 #
 $CMP LTC2450
-D ADC, 0-5V, LTC2450,Linear Technology
-K ADC, 0-5V, LTC2450
+D 16 bit Single ended ADC, SPI, 30 SPS, 0-5V Vin, Linear Technology
+K ADC,16 bit, SPI
 F http://cds.linear.com/docs/en/datasheet/2450fb.pdf
 $ENDCMP
 #
 $CMP LTC2451
-D 16 bit Single ended ADC, I2C, 30 SPS, 5V Vin, Linear Technology
+D 16 bit Single ended ADC, I2C, 30 SPS, 0-5V Vin, Linear Technology
 K ADC,16 bit, I2C
-F http://cds.linear.com/docs/en/datasheet/2451fg.pdf
+F http://cds.linear.com/docs/en/datasheet/2450fb.pdf
+$ENDCMP
+#
+$CMP LTC2481
+D 16 bit Single ended ADC, SPI, 30 SPS, 0-5V Vin, Linear Technology
+K ADC,16 bit, SPI
+F http://cds.linear.com/docs/en/datasheet/2450fb.pdf
 $ENDCMP
 #
 $CMP MCP3021
