@@ -1,8 +1,8 @@
-(module JST_PA:JST-PA-10 (layer F.Cu) (tedit 57C6C629)
-  (fp_text reference S8B-PASK-1 (at 0.3 4.2) (layer F.SilkS)
+(module JST-PA-08_Top-entry-type (layer F.Cu) (tedit 59A56CA2)
+  (fp_text reference REF** (at 0 4.05) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at -5.2 -1.6) (layer F.SilkS) hide
+  (fp_text value VAL** (at 0.2 -3.45) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.4 2) (end 2.4 2) (layer F.SilkS) (width 0.2))
@@ -33,4 +33,9 @@
   (pad 7 thru_hole circle (at 5 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 6 thru_hole circle (at 3 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 8 thru_hole circle (at 7 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
+  (model C:/Kicad/kicad-resources/kicad-librarys/3D/Eigene/JST-PA-[JS]/B08B-PASK-1.STEP
+    (at (xyz 0 0 0.1535433070866142))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

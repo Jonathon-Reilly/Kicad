@@ -1,4 +1,4 @@
-(module JST_PA:JST-PA-04_Top-entry-type (layer F.Cu) (tedit 57C6CC8B)
+(module JST-PA-03_Top-entry-type (layer F.Cu) (tedit 59A570D2)
   (fp_text reference S3B-PASK-1 (at 0.2 4.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -20,4 +20,9 @@
   (pad 3 thru_hole circle (at 2 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at -3.5 -1.7) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at 3.5 -1.7) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
+  (model C:/Kicad/kicad-resources/kicad-librarys/3D/Eigene/JST-PA-[JS]/B03B-PASK-1.STEP
+    (at (xyz 0 0 0.1535433070866142))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
