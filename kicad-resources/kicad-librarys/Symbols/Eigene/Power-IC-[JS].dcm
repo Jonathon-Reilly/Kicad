@@ -23,6 +23,12 @@ D DSN mini 360   DCDC
 K switching regulator DCDC 5V
 $ENDCMP
 #
+$CMP Geekcreit_DC-DC
+D DC-DC-Wandler
+K DC-DC
+F http://www.allegromicro.com/~/media/Files/Datasheets/ACS723-Datasheet.ashx?la=en
+$ENDCMP
+#
 $CMP IR4427
 D DUAL LOW SiDE DRIVER
 K driver, Mosfet driver,
