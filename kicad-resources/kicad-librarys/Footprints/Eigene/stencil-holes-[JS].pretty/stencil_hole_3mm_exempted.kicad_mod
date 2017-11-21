@@ -1,10 +1,10 @@
-(module stencil_hole_3mm_exempted (layer F.Cu) (tedit 59801FE9)
+(module stencil_hole_3mm_exempted (layer F.Cu) (tedit 5A144B9A)
   (fp_text reference REF** (at 0 2.75) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value stencil_hole_3mm (at 0 -0.5) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Paste *.Mask)
-    (solder_mask_margin 0.5) (solder_paste_margin 0.0001) (solder_paste_margin_ratio -0.00000001) (clearance 0.5))
+  (pad "" np_thru_hole circle (at 0 0) (size 3.125 3.125) (drill 3.125) (layers *.Cu *.Paste *.Mask)
+    (solder_mask_margin 0.5) (solder_paste_margin -0.00001) (solder_paste_margin_ratio -0.00000001) (clearance 0.5))
 )
