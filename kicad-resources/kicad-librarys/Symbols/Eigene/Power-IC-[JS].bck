@@ -23,6 +23,12 @@ D DSN mini 360   DCDC
 K switching regulator DCDC 5V
 $ENDCMP
 #
+$CMP Geekcreit_DC-DC
+D DC-DC-Wandler
+K DC-DC
+F http://www.allegromicro.com/~/media/Files/Datasheets/ACS723-Datasheet.ashx?la=en
+$ENDCMP
+#
 $CMP IR4427
 D DUAL LOW SiDE DRIVER
 K driver, Mosfet driver,
@@ -162,6 +168,12 @@ $CMP TPS92641
 D Constant current LED driver, Synchronous Buck N-channel, Shunt FET option
 K LED Driver, Synchronous, Buck,
 F http://www.ti.com/lit/ds/symlink/tps92640.pdf
+$ENDCMP
+#
+$CMP UCC27210
+D 120-V Boot, 4-A Peak, High-Frequency High-Side and Low-Side Driver
+K NFET Driver, 120 V, Dual
+F http://www.ti.com/lit/ds/symlink/ucc27210.pdf
 $ENDCMP
 #
 $CMP ZXGD3003E6
