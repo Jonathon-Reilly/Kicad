@@ -1,0 +1,3 @@
+[submodule "kicad-resources/kicad-librarys/kicad-symbols"]
+	path = kicad-resources/kicad-librarys/kicad-symbols
+	url = https://github.com/KiCad/kicad-symbols.git
