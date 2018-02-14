@@ -1,0 +1,2 @@
+This folder contains user created templates and modifications of these.
+It ist meant to sepparate indivdual user created content from the official kicad github branch.

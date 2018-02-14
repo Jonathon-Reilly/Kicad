@@ -10,3 +10,6 @@
 [submodule "kicad-resources/kicad-librarys/digikey-kicad-library"]
 	path = kicad-resources/kicad-librarys/digikey-kicad-library
 	url = https://github.com/digikey/digikey-kicad-library.git
+[submodule "kicad-resources/kicad-librarys/kicad-templates"]
+	path = kicad-resources/kicad-librarys/kicad-templates
+	url = https://github.com/KiCad/kicad-templates.git
