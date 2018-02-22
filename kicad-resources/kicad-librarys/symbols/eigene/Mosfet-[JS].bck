@@ -48,6 +48,18 @@ K so-8 P channel
 F http://www.irf.com/product-info/datasheets/data/irf7240pbf.pdf
 $ENDCMP
 #
+$CMP IRF7324
+D 9A Id, -20V Vds, Dual HEXFET P-Channel MOSFET, SO-8
+K Dual HEXFET P-Channel MOSFET
+F http://www.infineon.com/dgdl/irf7324pbf.pdf?fileId=5546d462533600a4015355f5f0861b4b
+$ENDCMP
+#
+$CMP IRF7324_0
+D 9A Id, -20V Vds, Dual HEXFET P-Channel MOSFET, SO-8
+K Dual HEXFET P-Channel MOSFET
+F http://www.infineon.com/dgdl/irf7324pbf.pdf?fileId=5546d462533600a4015355f5f0861b4b
+$ENDCMP
+#
 $CMP IRF7389
 D N + P channel MOSFET, SO-8 footprint, N 7A3  P 5A3
 K N + P channel, Mosfet,
@@ -58,6 +70,12 @@ $CMP IRL7486
 D Infineon N-Channel 40V 209A (Tc) 104W (Tc) Surface Mount DirectFET™ Isometric ME
 K DirectFET, N channel,
 F https://www.infineon.com/dgdl/Infineon-IRL7486M-DS-v01_00-EN.pdf?fileId=5546d46258fc0bc10158fec7a83a0629
+$ENDCMP
+#
+$CMP SI7997DP
+D 60A Id, -15V Vds, Dual HEXFET P-Channel MOSFET, PowerPak SO-8 Dual
+K Dual HEXFET P-Channel MOSFET
+F http://www.vishay.com/docs/66719/si7997dp.pdf
 $ENDCMP
 #
 $CMP Si4410DYPbF

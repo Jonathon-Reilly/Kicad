@@ -60,6 +60,12 @@ K DirectFET, N channel,
 F https://www.infineon.com/dgdl/Infineon-IRL7486M-DS-v01_00-EN.pdf?fileId=5546d46258fc0bc10158fec7a83a0629
 $ENDCMP
 #
+$CMP SI7997DP
+D 60A Id, -15V Vds, Dual HEXFET P-Channel MOSFET, PowerPak SO-8 Dual
+K Dual HEXFET P-Channel MOSFET
+F http://www.vishay.com/docs/66719/si7997dp.pdf
+$ENDCMP
+#
 $CMP Si4410DYPbF
 D Si4410DYPbF N channel 30V MOSFET
 K so-8 N channel
