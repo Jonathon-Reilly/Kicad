@@ -1,4 +1,4 @@
-(module RJHSE-5380 (layer F.Cu) (tedit 57C6D473)
+(module RJHSE-5380 (layer F.Cu) (tedit 5A901FEC)
   (descr "mod. jack, ethernet, 8P8C, RJ45 connector, shielded")
   (tags "RJHSE-5380 8P8C RJ45 ethernet jack")
   (fp_text reference REF** (at 3.5 -9.3) (layer F.SilkS)
@@ -29,9 +29,9 @@
   (pad "" thru_hole circle (at -2.794 -2.54) (size 3.3 3.3) (drill 3.3) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at 9.906 -2.54) (size 3.3 3.3) (drill 3.3) (layers *.Cu *.Mask F.SilkS))
   (pad 9 thru_hole circle (at -4.572 0.889) (size 2 2) (drill 1.6) (layers *.Cu *.Mask))
-  (model Connect.3dshapes/RJHSE538X.wrl
-    (at (xyz 0.138 0.06 0.125))
-    (scale (xyz 0.4 0.4 0.4))
-    (rotate (xyz -90 0 180))
+  (model ${KISYS3DMOD_OWN}/eigene/conn-Ethernet-[JS]/M-RJHSE-5380-REVT1.STEP
+    (offset (xyz 3.45 1.6 2.6))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 180 0))
   )
 )
