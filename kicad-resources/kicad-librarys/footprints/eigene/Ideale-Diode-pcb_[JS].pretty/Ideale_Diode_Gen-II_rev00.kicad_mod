@@ -1,4 +1,4 @@
-(module Ideale_Diode_Gen-II_rev00 (layer F.Cu) (tedit 5A9EB3BB)
+(module Ideale_Diode_Gen-II_rev00 (layer F.Cu) (tedit 5A9EE659)
   (attr smd)
   (fp_text reference REF** (at 0 7.55) (layer F.SilkS)
     (effects (font (size 0.95 0.75) (thickness 0.13)))
@@ -29,7 +29,7 @@
   (pad 3 smd roundrect (at -4.7 0) (size 2.5 5) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.1))
   (pad 3 smd roundrect (at 4.7 0) (size 2.5 5) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.1))
   (model ${KISYS3DMOD_OWN}/eigene/Ideale_Diode-[JS]/Ideale_Diode_25V_rev-00.stp
-    (at (xyz 0 0 0))
+    (offset (xyz 0.8 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
