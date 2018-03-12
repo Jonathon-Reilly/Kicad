@@ -210,4 +210,7 @@
   (lib (name Transformer_THT)(type KiCad)(uri ${KISYSMOD}/Transformer_THT.pretty)(options "")(descr ""))
   (lib (name Valve)(type KiCad)(uri ${KISYSMOD}/Valve.pretty)(options "")(descr ""))
   (lib (name Varistor)(type KiCad)(uri ${KISYSMOD}/Varistor.pretty)(options "")(descr ""))
+  (lib (name Capacitors-[MS])(type KiCad)(uri C:/Kicad/kicad-resources/kicad-librarys/footprints/eigene/Capacitors-[MS].pretty)(options "")(descr ""))
+  (lib (name mounting-holes-[MS])(type KiCad)(uri C:/Kicad/kicad-resources/kicad-librarys/footprints/eigene/mounting-holes-[MS].pretty)(options "")(descr ""))
+  (lib (name Daughter-Boards_[MS])(type KiCad)(uri C:/Kicad/kicad-resources/kicad-librarys/footprints/eigene/Daughter-Boards_[MS].pretty)(options "")(descr ""))
 )

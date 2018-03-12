@@ -432,4 +432,5 @@
   (lib (name w_rtx)(type Legacy)(uri ${KICAD_SYMBOL_DIR_OWN}/importiert/walter/w_rtx.lib)(options "")(descr ""))
   (lib (name w_transistor)(type Legacy)(uri ${KICAD_SYMBOL_DIR_OWN}/importiert/walter/w_transistor.lib)(options "")(descr ""))
   (lib (name w_vacuum)(type Legacy)(uri ${KICAD_SYMBOL_DIR_OWN}/importiert/walter/w_vacuum.lib)(options "")(descr ""))
+  (lib (name Daughter-Boards_[MS])(type Legacy)(uri C:/Kicad/kicad-resources/kicad-librarys/symbols/eigene/Daughter-Boards_[MS].lib)(options "")(descr ""))
 )
