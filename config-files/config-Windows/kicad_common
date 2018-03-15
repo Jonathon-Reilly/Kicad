@@ -8,8 +8,8 @@ kicad_fplib_url=https:/github.com/KiCad
 [EnvironmentVariables]
 KIATOMIC=C:/Kicad/kicad-resources/kicad-librarys/atomic-parts
 KICAD_3RDPARTY_DIGIKEY=C:/Kicad/kicad-resources/kicad-librarys/digikey-kicad-library
-KICAD_PTEMPLATES=C:/Program Files/KiCad/share/kicad/kicad-templates
-KICAD_PTEMPLATES_OWN=C:/Program Files/KiCad/share/kicad/templates
+KICAD_PTEMPLATES=C:\Kicad\kicad-resources\kicad-librarys\kicad-templates
+KICAD_PTEMPLATES_OWN=C:\Kicad\kicad-resources\kicad-librarys\templates
 KICAD_SYMBOL_DIR=C:/Kicad/kicad-resources/kicad-librarys/kicad-symbols
 KICAD_SYMBOL_DIR_OWN=C:/Kicad/kicad-resources/kicad-librarys/symbols
 KIGITHUB=https:/github.com/KiCad
