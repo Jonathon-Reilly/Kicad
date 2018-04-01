@@ -1,0 +1,10 @@
+(module Stitching_Via-0_7mm (layer F.Cu) (tedit 580E2DC2)
+  (fp_text reference REF** (at 0 0.5) (layer Dwgs.User) hide
+    (effects (font (size 0.127 0.127) (thickness 0.000001)))
+  )
+  (fp_text value Stitching_Via-0_7mm (at 0 -0.5) (layer Dwgs.User) hide
+    (effects (font (size 0.127 0.127) (thickness 0.000001)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 0.7 0.7) (drill 0.3) (layers *.Cu)
+    (zone_connect 2))
+)

@@ -1,0 +1,10 @@
+(module 3mm-stencil-hole (layer F.Cu) (tedit 5819A9E8)
+  (fp_text reference REF** (at 0 0.5) (layer Dwgs.User) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value 3mm-stencil-hole (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd circle (at 0 0) (size 3.025 3.025) (layers *.Paste *.Mask F.Cu)
+    (solder_paste_margin 0.01) (zone_connect 0))
+)
