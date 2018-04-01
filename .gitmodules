@@ -13,3 +13,12 @@
 [submodule "kicad-resources/kicad-librarys/kicad-templates"]
 	path = kicad-resources/kicad-librarys/kicad-templates
 	url = https://github.com/KiCad/kicad-templates.git
+[submodule "kicad-resources/kicad-librarys/thirdparty-footprints/cpavlina"]
+	path = kicad-resources/kicad-librarys/thirdparty-footprints/cpavlina
+	url = https://github.com/cpavlina/kicad-pcblib.git
+[submodule "kicad-resources/kicad-librarys/thirdparty-symbols/cpavlina"]
+	path = kicad-resources/kicad-librarys/thirdparty-symbols/cpavlina
+	url = https://github.com/cpavlina/kicad-schlib.git
+[submodule "kicad-resources/kicad-librarys/thirdparty-librarys/digikey"]
+	path = kicad-resources/kicad-librarys/thirdparty-librarys/digikey
+	url = https://github.com/digikey/digikey-kicad-library.git
