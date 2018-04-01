@@ -22,3 +22,15 @@
 [submodule "kicad-resources/kicad-librarys/thirdparty-librarys/digikey"]
 	path = kicad-resources/kicad-librarys/thirdparty-librarys/digikey
 	url = https://github.com/digikey/digikey-kicad-library.git
+[submodule "kicad-resources/kicad-librarys/official-symbols"]
+	path = kicad-resources/kicad-librarys/official-symbols
+	url = https://github.com/KiCad/kicad-symbols.git
+[submodule "kicad-resources/kicad-librarys/official-footprints"]
+	path = kicad-resources/kicad-librarys/official-footprints
+	url = https://github.com/KiCad/kicad-footprints.git
+[submodule "kicad-resources/kicad-librarys/official-packages3D"]
+	path = kicad-resources/kicad-librarys/official-packages3D
+	url = https://github.com/KiCad/kicad-packages3D.git
+[submodule "kicad-resources/kicad-librarys/official-templates"]
+	path = kicad-resources/kicad-librarys/official-templates
+	url = https://github.com/KiCad/kicad-templates.git
