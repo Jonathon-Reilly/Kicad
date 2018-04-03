@@ -1,6 +1,7 @@
 WorkingDir=C:\\Program Files\\KiCad
 ShowEnvVarWarningDialog=1
 UseIconsInMenus=1
+kicad_fplib_url=https://github.com/KiCad
 [EnvironmentVariables]
 KIATOMIC_OWN=C:\\Kicad\\kicad-resources\\kicad-librarys\\own-atomic-parts
 KIATOMIC_O_SHOVAH=C:\\Kicad\\kicad-resources\\kicad-librarys\\o_shovah-atomic-parts
@@ -13,15 +14,13 @@ KICAD_SYMBOL_DIR_OFFICIAL=C:\\Kicad\\kicad-resources\\kicad-librarys\\official-s
 KICAD_SYMBOL_DIR_OWN=C:\\Kicad\\kicad-resources\\kicad-librarys\\own-symbols
 KICAD_SYMBOL_DIR_O_SHOVAH=C:\\Kicad\\kicad-resources\\kicad-librarys\\o_shovah-symbols
 KICAD_SYMBOL_DIR_THIRDPARTY=C:\\Kicad\\kicad-resources\\kicad-librarys\\thirdparty-symbols
-KICAD_THIRDRDPARTY_LIBRARYS=C:\\Kicad\\kicad-resources\\kicad-librarys\\thirdparty-librarys
+KICAD_THIRDPARTY_LIBRARYS=C:\\Kicad\\kicad-resources\\kicad-librarys\\thirdparty-librarys
 KIGITHUB=https://github.com/KiCad
 KISYS3DMOD_OFFICIAL=C:\\Kicad\\kicad-resources\\kicad-librarys\\official-packages3D
 KISYS3DMOD_OWN=C:\\Kicad\\kicad-resources\\kicad-librarys\\own-3D
 KISYS3DMOD_O_SHOVAH=C:\\Kicad\\kicad-resources\\kicad-librarys\\o_shovah-3D
 KISYS3DMOD_THIRDPARTY=C:\\Kicad\\kicad-resources\\kicad-librarys\\thirdparty-3D
-KISYSMOD_OFFICIAL=C:\\Kicad\\kicad-resources\\kicad-librarys\\official-symbols
-KISYSMOD_OWN=C:\\Kicad\\kicad-resources\\kicad-librarys\\own-symbols
-KISYSMOD_O_SHOVAH=C:\\Kicad\\kicad-resources\\kicad-librarys\\o_shovah-symbols
-KISYSMOD_THIRDPARTY=C:\\Kicad\\kicad-resources\\kicad-librarys\\thirdparty-symbols
-
-
+KISYSMOD_OFFICIAL=C:\\Kicad\\kicad-resources\\kicad-librarys\\official-footprints
+KISYSMOD_OWN=C:\\Kicad\\kicad-resources\\kicad-librarys\\own-footprints
+KISYSMOD_O_SHOVAH=C:\\Kicad\\kicad-resources\\kicad-librarys\\o_shovah-footprints
+KISYSMOD_THIRDPARTY=C:\\Kicad\\kicad-resources\\kicad-librarys\\thirdparty-footprints
