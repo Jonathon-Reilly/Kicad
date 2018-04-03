@@ -65,12 +65,6 @@ F http://cds.linear.com/docs/en/datasheet/4352fa.pdf
 $ENDCMP
 #
 $CMP LTC4353
-D Dual Ideal Diode Controler
-K  Ideal; Diode;
-F http://cds.linear.com/docs/en/datasheet/4353f.pdf
-$ENDCMP
-#
-$CMP MCP1754ST-5002E/MB
 D MCP1754ST, Fixed 150mA Low Dropout Voltage Regulator, Positive
 K REGULATOR LDO
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20002276C.pdf
