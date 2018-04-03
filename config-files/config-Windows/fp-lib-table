@@ -166,4 +166,5 @@
   (lib (name smd-semi)(type KiCad)(uri ${KISYSMOD_THIRDPARTY}/cpavlina/smd-semi.pretty)(options "")(descr ""))
   (lib (name XBee)(type Legacy)(uri ${KISYSMOD_THIRDPARTY}/Importierte/misc/XBee.mod)(options "")(descr ""))
   (lib (name RPi_Hat.pretty-master)(type KiCad)(uri ${KISYSMOD_THIRDPARTY}/Importierte/RPi/RPi_Hat.pretty-master.pretty)(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri C:/Kicad/kicad-resources/kicad-librarys/thirdparty-librarys/digikey/digikey-footprints.pretty)(options "")(descr ""))
 )
