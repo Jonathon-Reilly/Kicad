@@ -5,6 +5,10 @@ REM global Variables
 SET currentPath=%~dp0
 set userKiCadPath=%userprofile%\AppData\Roaming\kicad
 set gitKiCadPath=%currentPath:~0,-1%
+set relPathToTopLevelGit=..\..\
+pushd %relPathToTopLevelGit%
+set absPathToTopLevelGit=%CD%
+popd
 
 echo Checking kicad_common
 
@@ -102,10 +106,10 @@ for /l %%e in (0,1,%k%) do (
 		set environmentVariableName=%%A
 		set url=%%B
 		if "!url:~0,1!"=="/" (
-			set linesToChange[%%e]=!environmentVariableName:~0,-1!!gitKiCadPath:\\=//!!url:~7!
+			set linesToChange[%%e]=!environmentVariableName:~0,-1!!absPathToTopLevelGit:\\=//!!url:~7!
 		)
 		if "!url:~0,1!"=="\" (
-			set linesToChange[%%e]=!environmentVariableName:~0,-1!!gitKiCadPath:\=\\!!url:~7!
+			set linesToChange[%%e]=!environmentVariableName:~0,-1!!absPathToTopLevelGit:\=\\!!url:~7!
 		)
 		
 		echo !linesToChange[%%e]! >> !userKiCadPath!\kicad_common
