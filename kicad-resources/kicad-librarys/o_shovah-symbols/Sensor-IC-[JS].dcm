@@ -7,8 +7,14 @@ F http://www.allegromicro.com/~/media/Files/Datasheets/ACS723-Datasheet.ashx?la=
 $ENDCMP
 #
 $CMP ADXL375
-D Accelerometer X, Y, Z Axis ±200g 0.05Hz ~ 1.6kHz 14-LGA (3x5) 
+D Accelerometer X, Y, Z Axis ±200g 0.05Hz ~ 1.6kHz 14-LGA (3x5)
 F http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL375.pdf
+$ENDCMP
+#
+$CMP LPS33HW
+D Absolute digital output barometer water-resistant
+K 260-1260 hPa , Absolut, MEMS Pressure Sensors
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/9f/16/0d/6e/ea/20/4e/dc/DM00386016/files/DM00386016.pdf/jcr:content/translations/en.DM00386016.pdf
 $ENDCMP
 #
 $CMP MAX31855EASA
@@ -57,6 +63,18 @@ $CMP MPU-9250
 D Accelerometer, Gyroscope, Magnetometer, 3 Axis Sensor I²C, SPI Output
 K Accelerometer, Gyroscope, Magnetometer, 3 Axis Sensor I²C, SPI Output
 F https://store.invensense.com/datasheets/invensense/MPU9250REV1.0.pdf
+$ENDCMP
+#
+$CMP SDP3x
+D Digital Differential Pressure Sensor
+K Differential, Pressure, I2C
+F https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/8_Differential_Pressure/Sensirion_Differential_Pressure_Sensors_SDP3x_Digital_Datasheet_V0.8.pdf
+$ENDCMP
+#
+$CMP STS3x-DIS
+D High accuracy Digital I2C temperature Sensor
+K I2C, Temp, 16 bit
+F https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/3_Temperature_Sensors/Sensirion_Temperature_Sensors_STS3x_Datasheet.pdf
 $ENDCMP
 #
 #End Doc Library
