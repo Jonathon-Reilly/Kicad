@@ -6,13 +6,37 @@ K IC Volt Level Translator, I2C, PCA9306, 3V3, 5V
 F http://www.onsemi.com/pub_link/Collateral/PCA9306-D.PDF
 $ENDCMP
 #
+$CMP Si8602
+D Bidirectional General Purpose Digital Isolator 2500Vrms 2 Channel 150Mbps
+K Isolator, Bidirectional, 2,5kV, SOIC-8
+F https://www.silabs.com/documents/public/data-sheets/Si860x.pdf
+$ENDCMP
+#
+$CMP Si8602_0
+D General Purpose Digital Isolator 2500Vrms 2 Channel 150Mbps
+K Isolator, 2,5kV, SOIC-8
+F http://www.silabs.com/documents/public/data-sheets/si861x-2x-datasheet.pdf
+$ENDCMP
+#
 $CMP Si8620
 D General Purpose Digital Isolator 2500Vrms 2 Channel 150Mbps
 K Isolator, 2,5kV, SOIC-8
 F http://www.silabs.com/documents/public/data-sheets/si861x-2x-datasheet.pdf
 $ENDCMP
 #
+$CMP Si8620_0
+D General Purpose Digital Isolator 2500Vrms 2 Channel 150Mbps
+K Isolator, 2,5kV, SOIC-8
+F http://www.silabs.com/documents/public/data-sheets/si861x-2x-datasheet.pdf
+$ENDCMP
+#
 $CMP Si8621
+D General Purpose Digital Isolator 2500Vrms 2 Channel 150Mbps
+K Isolator, 2,5kV, SOIC-8
+F http://www.silabs.com/documents/public/data-sheets/si861x-2x-datasheet.pdf
+$ENDCMP
+#
+$CMP Si862_0
 D General Purpose Digital Isolator 2500Vrms 2 Channel 150Mbps
 K Isolator, 2,5kV, SOIC-8
 F http://www.silabs.com/documents/public/data-sheets/si861x-2x-datasheet.pdf

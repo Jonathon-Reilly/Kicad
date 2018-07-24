@@ -146,6 +146,12 @@ K LDO Voltage Regulator 200mA adjustable
 F https://media.digikey.com/pdf/Data%20Sheets/Texas%20Instruments%20PDFs/TPS793_Rev2015.pdf
 $ENDCMP
 #
+$CMP TPS7A90
+D IC, LDO-Regulator,low noise ,Positiv, Adjustable, 500mA, 10SON
+K low noise, LDO, 500mA,positive
+F http://www.ti.com/lit/ds/symlink/tps7a90.pdf
+$ENDCMP
+#
 $CMP TPS92640
 D Constant current LED driver, Synchronous Buck N-channel, Shunt FET option
 K LED Driver, Synchronous, Buck,
