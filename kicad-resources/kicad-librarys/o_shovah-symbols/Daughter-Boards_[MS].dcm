@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Silent_Stepstick_TMC2208
+D Silent Stepstick with Trinamic 2208
+K TMC 2208
+F https://www.watterott.com/de/SilentStepStick-TMC2208
+$ENDCMP
+#
 #End Doc Library
