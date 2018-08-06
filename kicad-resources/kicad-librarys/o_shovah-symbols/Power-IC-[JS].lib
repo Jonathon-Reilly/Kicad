@@ -139,7 +139,7 @@ ENDDEF
 DEF D24VxAxx U 0 40 Y Y 1 F N
 F0 "U" 0 -250 50 H V C CNN
 F1 "D24VxAxx" 0 200 50 H V C CNN
-F2 "Power-IC:D24VxAxx" -450 -250 50 H V C CNN
+F2 "Power-IC:D24VxAxx" -450 -250 50 H I C CNN
 F3 "" 0 0 50 H V C CNN
 F4 "Value" 0 0 50 H I C CNN "manf#"
 F5 "Value" 0 0 50 H I C CNN "farnell#"

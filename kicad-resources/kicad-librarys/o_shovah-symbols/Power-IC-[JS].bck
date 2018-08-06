@@ -18,6 +18,12 @@ K ldo linear fixed positive
 F http://www.diodes.com/_files/datasheets/AP2204.pdf
 $ENDCMP
 #
+$CMP D24VxAxx
+D 50 mA Low Dropout Voltage Regulator
+K LDO Regulator
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/f2/6e/04/e2/45/e7/48/ac/CD00001636.pdf/files/CD00001636.pdf/jcr:content/translations/en.CD00001636.pdf
+$ENDCMP
+#
 $CMP DSN_mini-360
 D DSN mini 360   DCDC
 K switching regulator DCDC 5V
