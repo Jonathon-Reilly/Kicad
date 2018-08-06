@@ -134,6 +134,32 @@ X ~ ~ 0 -150 0 U 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
+# D24VxAxx
+#
+DEF D24VxAxx U 0 40 Y Y 1 F N
+F0 "U" 0 -250 50 H V C CNN
+F1 "D24VxAxx" 0 200 50 H V C CNN
+F2 "Power-IC:D24VxAxx" -450 -250 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 50 H I C CNN "manf#"
+F5 "Value" 0 0 50 H I C CNN "farnell#"
+F6 "Value" 0 0 50 H I C CNN "digikey#"
+F7 "Value" 0 0 50 H I C CNN "mouser#"
+F8 "Value" 0 0 50 H I C CNN "bangood#"
+F9 "-" 0 0 50 H I C CNN "vorhanden"
+$FPLIST
+ *SOT-23-5*
+ *sot-23*
+$ENDFPLIST
+DRAW
+S -300 150 300 -200 0 1 0 f
+X VOUT 1 400 50 100 L 50 50 1 1 I
+X GND 2 200 -300 100 U 50 50 1 1 I
+X VIN 3 -400 50 100 R 50 50 1 1 I
+X ~SHDN 4 -400 -100 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
 # DSN_mini-360
 #
 DEF DSN_mini-360 U 0 30 Y Y 1 F N
