@@ -718,10 +718,10 @@ DEF TMC2130-TA U 0 40 Y Y 1 F N
 F0 "U" -50 1700 59 H V L TNN
 F1 "TMC2130-TA" -300 1550 59 H V L BNN
 F2 "General_smd-[JS]:TQFP-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm" 0 -2050 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-F4 "Value" 0 0 50 H I C CNN "manf#"
+F3 "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2130_datasheet.pdf" -50 1700 50 H I C CNN
+F4 "TMC2130-TA-T" 0 0 50 H I C CNN "manf#"
 F5 "Value" 0 0 50 H I C CNN "farnell#"
-F6 "Value" 0 0 50 H I C CNN "digikey#"
+F6 "1460-1186-1-ND" 0 0 50 H I C CNN "digikey#"
 F7 "Value" 0 0 50 H I C CNN "mouser#"
 F8 "Value" 0 0 50 H I C CNN "bangood#"
 F9 "-" 0 0 50 H I C CNN "vorhanden"
