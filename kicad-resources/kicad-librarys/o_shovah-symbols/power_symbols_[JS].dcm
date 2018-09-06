@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ISO_GND
+D ISOLATED GROUND power-flag symbol
+K Power Flag Symbol Isolated
+$ENDCMP
+#
+#End Doc Library
