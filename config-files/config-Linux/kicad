@@ -1,17 +1,17 @@
-KicadFramePos_x=2311
-KicadFramePos_y=272
-KicadFrameSize_x=996
-KicadFrameSize_y=513
+KicadFramePos_x=2022
+KicadFramePos_y=152
+KicadFrameSize_x=1001
+KicadFrameSize_y=576
 KicadFrameMaximized=0
-KicadFramePerspective=layout2|name=MainToolbar;caption=;state=139644;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=230;besth=36;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ProjectTree;caption=;state=508;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=315;besth=-1;minw=150;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Launcher;caption=;state=139644;dir=1;layer=1;row=0;pos=0;prop=100000;bestw=525;besth=70;minw=525;minh=70;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=99;besth=37;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(1,6,0)=36|dock_size(4,3,0)=298|dock_size(1,1,0)=70|dock_size(5,0,0)=99|
-KicadFrameMostRecentlyUsedPath=/home/schwing/Projekte/Elektronik/Messen/BNC-Adapter-HP3457A/rev_01/
-LeftWinWidth=298
-file1=/home/schwing/Projekte/Elektronik/Messen/BNC-Adapter-HP3457A/rev_01/BNC-Adapter-HP3457A.pro
-file2=/home/schwing/Projekte/Elektronik/Messen/BNC-Adapter-HP3457A/BNC-Adapter-HP3457A/BNC-Adapter-HP3457A.pro
-file3=/home/schwing/Projekte/Elektronik/Messen/Mini-16bit-ADC-PCB/rev_00/Mini-16bit-ADC-PCB.pro
-file4=/home/schwing/Austausch_Schwing/01 Projekte/2018/Wirecutter/Eagle/wirecutter.pro
-file5=/home/schwing/Projekte/Elektronik/Breakout-PCB/dash_connector/dash_connector.pro
-file6=/home/schwing/Downloads/blub/kicad-boards-master/dash_connector/dash_connector.pro
-file7=/home/schwing/Projekte/Elektronik/ESC/VESC/VESC-6_hardware/MINI4/MINI VESC.pro
-file8=/home/schwing/Projekte/Elektronik/ESC/VESC-Air/Power_25V-30A/00-PCB/Power-board_25V-30A.pro
-file9=/home/schwing/Projekte/Elektronik/Messen/Curr+Volt-sens_PCB/curr+volt-sens_pcb/curr+volt-sens_pcb.pro
+KicadFramePerspective=layout2|name=MainToolbar;caption=;state=139644;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=230;besth=36;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ProjectTree;caption=;state=508;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=300;besth=-1;minw=150;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Launcher;caption=;state=139644;dir=1;layer=1;row=0;pos=0;prop=100000;bestw=525;besth=70;minw=525;minh=70;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=99;besth=37;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(1,6,0)=36|dock_size(4,3,0)=300|dock_size(1,1,0)=70|dock_size(5,0,0)=99|
+KicadFrameMostRecentlyUsedPath=/home/schwing/Projekte/Elektronik/Messen/5-PB-Zellen_Kalibrierspannungsquelle/
+LeftWinWidth=300
+file1=/home/schwing/Projekte/Elektronik/Messen/5-PB-Zellen_Kalibrierspannungsquelle/5-PB-Zellen_Kalibrierspannungsquelle.pro
+file2=/home/schwing/Projekte/Elektronik/Messen/Mini-SMB-Adapter_HP3457A/rev_01/Mini-SMB-Adapter-HP3457A.pro
+file3=/home/schwing/Projekte/Elektronik/Messen/BNC-Adapter-HP3457A/rev_01/BNC-Adapter-HP3457A.pro
+file4=/home/schwing/Projekte/Elektronik/Messen/BNC-Adapter-HP3457A/BNC-Adapter-HP3457A/BNC-Adapter-HP3457A.pro
+file5=/home/schwing/Projekte/Elektronik/Messen/Mini-16bit-ADC-PCB/rev_00/Mini-16bit-ADC-PCB.pro
+file6=/home/schwing/Austausch_Schwing/01 Projekte/2018/Wirecutter/Eagle/wirecutter.pro
+file7=/home/schwing/Projekte/Elektronik/Breakout-PCB/dash_connector/dash_connector.pro
+file8=/home/schwing/Downloads/blub/kicad-boards-master/dash_connector/dash_connector.pro
+file9=/home/schwing/Projekte/Elektronik/ESC/VESC/VESC-6_hardware/MINI4/MINI VESC.pro
