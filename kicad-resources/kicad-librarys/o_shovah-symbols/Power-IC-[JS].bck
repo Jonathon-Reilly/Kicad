@@ -182,4 +182,9 @@ K Gate Driver, 1A , SOT363
 F http://www.diodes.com/_files/datasheets/ZXGD3009DY.pdf
 $ENDCMP
 #
+$CMP lm25141
+D DC-DC Synchronous Constant Current Buck Controller Vout 15V Vin 3_8 to 45V
+K Buck;Synchronouy;CC;Constant Current
+$ENDCMP
+#
 #End Doc Library
