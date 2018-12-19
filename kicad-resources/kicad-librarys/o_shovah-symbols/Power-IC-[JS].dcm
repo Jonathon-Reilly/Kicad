@@ -185,6 +185,12 @@ $ENDCMP
 $CMP lm25141
 D DC-DC Synchronous Constant Current Buck Controller Vout 15V Vin 3_8 to 45V
 K Buck;Synchronouy;CC;Constant Current
+F http://www.ti.com/lit/ds/symlink/lm25141.pdf
+$ENDCMP
+#
+$CMP lt3741
+D High Power, Constant Current, Constant Voltage, Step-Down Controller, Vmax 40V
+F https://www.analog.com/media/en/technical-documentation/data-sheets/37411fg.pdf
 $ENDCMP
 #
 #End Doc Library
