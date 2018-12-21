@@ -52,6 +52,18 @@ K Shunt Reference, 1.24V,  30mA
 F http://www.ti.com/lit/ds/symlink/lmv431a.pdf
 $ENDCMP
 #
+$CMP LT3474
+D Constant Current Non Synchronous Step Down DC-DC for LED Applications 1A 36 Vin 15 Vout
+K Constant Current; Step Down; Buck;
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3474fd.pdf
+$ENDCMP
+#
+$CMP LT3474-1
+D Constant Current Non Synchronous Step Down DC-DC for LED Applications 1A 36 Vin 26 Vout
+K Constant Current; Step Down; Buck;
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3474fd.pdf
+$ENDCMP
+#
 $CMP LTC4236
 D Dual Ideal Diode and Singel Hot Swap controller with current Monitor
 K Dual ideal diode, Hot swap, Current Monitor, Linear
